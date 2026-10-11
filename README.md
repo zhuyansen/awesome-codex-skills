@@ -6,6 +6,24 @@ Open-source **skills, plugins and workflows made for OpenAI Codex**: single skil
 
 Live page with filters: **[https://agentskillshub.top/best/codex-skills/](https://agentskillshub.top/best/codex-skills/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to install
+
+We ran 12 of these end to end (12 gave a result). This is what we would pick; the [full test](#tested) is below.
+
+- 🥇 **For slide decks: [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)**  
+  Opened every time in Codex, even with 500 other skills installed and its description stripped (17 of 18 over both agents): the name says what it does. It also took over the requests meant for another deck skill, so install one deck skill, not several.
+- 🥈 **To make image slides editable: [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)**  
+  18 of 18, and a different job from the one above, so the two do not compete.
+- 🥉 **To keep Codex itself fast: [keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast)**  
+  18 of 18. A maintenance skill: a read-only report first, backups before any change.
+
+**Fine alone, lost in a crowd (Codex with 500 others installed):** CyberPPT (0 of 3: every request went to codex-ppt); codex-startup-pressure-test-skill (0 of 3, like the three other skills whose names come late in the alphabet).
+
+Whichever you pick: keep the number of installed skills low in Codex. With 512 installed it dropped every description and hid 134 skills, and the right skill was opened 17 times of 36, against 35 or 36 with up to 112 installed.
+
+*Ranked by how often the right skill was opened, over 18 tries each (three requests, three crowding levels, two agents), then GitHub stars. This measures whether the agent finds the skill, not how good its output is. One run per request; the requests were written from each skill's own description.*
+
+
 ## What these Codex skills make
 
 <table>
@@ -23,6 +41,7 @@ Live page with filters: **[https://agentskillshub.top/best/codex-skills/](https:
 
 ## Contents
 
+- [🧪 Tested end to end](#tested)
 - [📚 Collections](#type-collection) (19)
 - [🧩 Skills](#type-skill) (101)
 - [🔌 Plugins & MCP](#type-plugin) (61)
@@ -38,6 +57,30 @@ Live page with filters: **[https://agentskillshub.top/best/codex-skills/](https:
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows it working, one-command start, a concrete outcome, complete docs), and have 5 stars.
 
 The questions are answered by a decision model reading each README, not by hand. A repo near a cut-off can land on either side; open an issue if one is misfiled.
+
+<a id="tested"></a>
+## 🧪 Tested end to end
+
+On 2026-10-11 we installed 12 of these skills together in a throwaway sandbox and sent each agent 36 requests that should reach one of them (three per skill: asked plainly, described without the skill's own words, and in the other language) and 6 that should reach none. A run stopped as soon as a skill was opened, so this measures which skill the agent reaches for, not what the skill then produces. Then the same requests with 100 and with 500 other real skills installed beside the twelve. Codex ran gpt-6-astra; Claude Code, which loads the same SKILL.md format, ran Claude Opus 5.5.
+
+**What we found:** With only the twelve installed, both agents opened the right skill 36 times of 36, and neither opened one for an unrelated request at any level. With 100 others, 35 of 36 each. With 500 others, Claude Code still managed 35 of 36, and Codex 17 of 36: it reported that it had removed every skill description and left 134 skills out of the list. Four test skills were never opened again, and one deck skill took every request meant for another.
+
+| # | Skill | ★ | Right skill opened (of 18) | Codex, 12 installed | Codex, +100 | Codex, +500 | Claude Code, +500 |  |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,860 | 18/18 | 3/3 | 3/3 | 3/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/ningzimu__image-to-editable-ppt-skill.html) |
+| 2 | [keep-codex-fast](https://github.com/vibeforge1111/keep-codex-fast) | 1,530 | 18/18 | 3/3 | 3/3 | 3/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/vibeforge1111__keep-codex-fast.html) |
+| 3 | [lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) | 947 | 18/18 | 3/3 | 3/3 | 3/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/cclank__lanshu-animated-architecture-diagram.html) |
+| 4 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 12,068 | 17/18 | 3/3 | 3/3 | 2/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/helloianneo__ian-xiaohei-illustrations.html) |
+| 5 | [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,661 | 17/18 | 3/3 | 3/3 | 3/3 | 2/3 | [evidence](https://agentskillshub.top/best-runs/codex/ningzimu__codex-ppt-skill.html) |
+| 6 | [codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) | 1,047 | 17/18 | 3/3 | 3/3 | 2/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/Kappaemme-git__codex-first-customer-finder-skill.html) |
+| 7 | [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,770 | 15/18 | 3/3 | 3/3 | 0/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/crazyykhllc-bit__CyberPPT.html) |
+| 8 | [codex-startup-pressure-test-skill](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) | 990 | 15/18 | 3/3 | 3/3 | 0/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/Kappaemme-git__codex-startup-pressure-test-skill.html) |
+| 9 | [qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) | 900 | 15/18 | 3/3 | 3/3 | 0/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/joeseesun__qiaomu-goal-meta-skill.html) |
+| 10 | [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) | 749 | 15/18 | 3/3 | 3/3 | 0/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/Evianis__travel-photo-abstraction.html) |
+| 11 | [codex-visio-paper-figure-skill](https://github.com/pengjunchi0/codex-visio-paper-figure-skill) | 680 | 15/18 | 3/3 | 3/3 | 0/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/pengjunchi0__codex-visio-paper-figure-skill.html) |
+| 12 | [codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) | 913 | 14/18 | 3/3 | 2/3 | 1/3 | 3/3 | [evidence](https://agentskillshub.top/best-runs/codex/Kappaemme-git__codex-complexity-optimizer.html) |
+
+[All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/codex-runs/) · [https://agentskillshub.top/best/codex-skills/#test-results](https://agentskillshub.top/best/codex-skills/?utm_source=github&utm_medium=awesome-list#test-results)
 
 <a id="type-collection"></a>
 ## 📚 Collections
@@ -89,10 +132,10 @@ The questions are answered by a decision model reading each README, not by hand.
 | [AAASS554/codex-academic-paper-skills](https://github.com/AAASS554/codex-academic-paper-skills) | 538 | Codex academic paper skills for software engineering thesis planning and revision | [SAFE](https://agentskillshub.top/skill/AAASS554/codex-academic-paper-skills/?utm_source=github&utm_medium=awesome-list) |
 | [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) | 531 | Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-xiaohei-scenes/?utm_source=github&utm_medium=awesome-list) |
 | [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 521 | TaiT-CRT-Interface-Skill is a Codex image generation skill that transforms user-uploaded portraits, photographs, or text descriptions into a retro il… | [SAFE](https://agentskillshub.top/skill/TaiT-tt/tait-crt-interface-skill/?utm_source=github&utm_medium=awesome-list) |
-| [HaichaoLihc/create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) | 491 | Codex skill for building responsive 3D photo flipbook websites from user-supplied images | [SAFE](https://agentskillshub.top/skill/HaichaoLihc/create-photo-flipbook-ui/?utm_source=github&utm_medium=awesome-list) |
+| [HaichaoLihc/create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) | 492 | Codex skill for building responsive 3D photo flipbook websites from user-supplied images | [SAFE](https://agentskillshub.top/skill/HaichaoLihc/create-photo-flipbook-ui/?utm_source=github&utm_medium=awesome-list) |
 | [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 472 | Consulting deck skill with editable options for Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/?utm_source=github&utm_medium=awesome-list) |
 | [LunarXuan/image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse) | 470 | High-fidelity AI image prompt reverse-engineering skill for Codex | [SAFE](https://agentskillshub.top/skill/LunarXuan/image-prompt-reverse/?utm_source=github&utm_medium=awesome-list) |
-| [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial) | 422 | A Codex skill for transforming real photos into Photo Relic artworks: truthful photographs paired with quiet paper-memory prints. | [SAFE](https://agentskillshub.top/skill/wnby/photo-relic-editorial/?utm_source=github&utm_medium=awesome-list) |
+| [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial) | 423 | A Codex skill for transforming real photos into Photo Relic artworks: truthful photographs paired with quiet paper-memory prints. | [SAFE](https://agentskillshub.top/skill/wnby/photo-relic-editorial/?utm_source=github&utm_medium=awesome-list) |
 | [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) | 417 | Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC | [SAFE](https://agentskillshub.top/skill/Jane-xiaoer/paper-collage-ad-codex/?utm_source=github&utm_medium=awesome-list) |
 | [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | 374 | 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画 | [SAFE](https://agentskillshub.top/skill/hi-nikola/hand-drawn-explainer-video-nikola/?utm_source=github&utm_medium=awesome-list) |
 | [yuzhworkhard-wq/image-to-code](https://github.com/yuzhworkhard-wq/image-to-code) | 348 | Codex skill for 750px image-to-code reconstruction and transparent PNG slicing | [SAFE](https://agentskillshub.top/skill/yuzhworkhard-wq/image-to-code/?utm_source=github&utm_medium=awesome-list) |
@@ -112,7 +155,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [izscc/cc2image](https://github.com/izscc/cc2image) | 187 | codex 中文内容交互式生图系统 Skill：认知锚点拆图、49 套内容风格 + 8 套 logo/图标模式，支持封面、正文配图、系列主视觉和批量生图提示词。 | [SAFE](https://agentskillshub.top/skill/izscc/cc2image/?utm_source=github&utm_medium=awesome-list) |
 | [Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill) | 185 | Experimental bilingual Codex skill for ETERNA-inspired image2image cinematic color and composition. | [SAFE](https://agentskillshub.top/skill/Cuimao777/eterna-image2image-skill/?utm_source=github&utm_medium=awesome-list) |
 | [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | 180 | A Codex Skill for converting Beamer PDFs into editable PowerPoint decks with native equations. | [SAFE](https://agentskillshub.top/skill/xdmlxdml/beamer2pptx/?utm_source=github&utm_medium=awesome-list) |
-| [weeelin98/ResumeDom](https://github.com/weeelin98/ResumeDom) | 176 | Evidence-first Codex skill for reviewing, rewriting, tailoring, and generating ATS-readable US tech resumes for CS interns and new grads. | [SAFE](https://agentskillshub.top/skill/weeelin98/ResumeDom/?utm_source=github&utm_medium=awesome-list) |
+| [weeelin98/ResumeDom](https://github.com/weeelin98/ResumeDom) | 177 | Evidence-first Codex skill for reviewing, rewriting, tailoring, and generating ATS-readable US tech resumes for CS interns and new grads. | [SAFE](https://agentskillshub.top/skill/weeelin98/ResumeDom/?utm_source=github&utm_medium=awesome-list) |
 | [carolinaaafy/travel-memory-card-duo](https://github.com/carolinaaafy/travel-memory-card-duo) | 166 | Codex skill that outputs a finished travel memory card plus a separate transparent-background PNG sticker image with the same six motifs. | [SAFE](https://agentskillshub.top/skill/carolinaaafy/travel-memory-card-duo/?utm_source=github&utm_medium=awesome-list) |
 | [1838904818/audit-repo](https://github.com/1838904818/audit-repo) | 157 | A practical Codex skill for evidence-backed repository health audits | [SAFE](https://agentskillshub.top/skill/1838904818/audit-repo/?utm_source=github&utm_medium=awesome-list) |
 | [chenzixin1/watchless](https://github.com/chenzixin1/watchless) | 144 | Codex Skill that turns videos into complete keyframe-led visual documents. | [SAFE](https://agentskillshub.top/skill/chenzixin1/watchless/?utm_source=github&utm_medium=awesome-list) |
@@ -153,8 +196,8 @@ The questions are answered by a decision model reading each README, not by hand.
 | [Gyratingice-blip/codex-windows-bundled-plugin-repair](https://github.com/Gyratingice-blip/codex-windows-bundled-plugin-repair) | 62 | Repair Codex Desktop bundled Chrome and Computer Use plugins on Windows. | [SAFE](https://agentskillshub.top/skill/Gyratingice-blip/codex-windows-bundled-plugin-repair/?utm_source=github&utm_medium=awesome-list) |
 | [XuToWei/Image-To-UI](https://github.com/XuToWei/Image-To-UI) | 59 | Image-to-UI Codex skill: convert game UI screenshots and sliced sprites into ui_structure.json. | [SAFE](https://agentskillshub.top/skill/XuToWei/Image-To-UI/?utm_source=github&utm_medium=awesome-list) |
 | [aiwenjie777/codex-skin-skill](https://github.com/aiwenjie777/codex-skin-skill) | 55 | codex skin 皮肤一键安装，简单操作，skill 就可以完成，随意切换，One-click Codex skin installation—simple to use and powered entirely by a skill. Switch between skins anytime. | [SAFE](https://agentskillshub.top/skill/aiwenjie777/codex-skin-skill/?utm_source=github&utm_medium=awesome-list) |
+| [xnydl/codex-dream-skin](https://github.com/xnydl/codex-dream-skin) | 55 | macOS & Windows Codex Desktop 梦幻换肤 Skill｜由世事宜AI免费提供 | [SAFE](https://agentskillshub.top/skill/xnydl/codex-dream-skin/?utm_source=github&utm_medium=awesome-list) |
 | [xiaomaxueshufen/data-analysis](https://github.com/xiaomaxueshufen/data-analysis) | 54 | 面向 Excel/CSV 的证据优先数据分析 Codex skill，覆盖异动、漏斗、指标体系、AB 实验、因果、分层、贡献度、比率拆解与行业口径模板 | [SAFE](https://agentskillshub.top/skill/xiaomaxueshufen/data-analysis/?utm_source=github&utm_medium=awesome-list) |
-| [xnydl/codex-dream-skin](https://github.com/xnydl/codex-dream-skin) | 54 | macOS & Windows Codex Desktop 梦幻换肤 Skill｜由世事宜AI免费提供 | [SAFE](https://agentskillshub.top/skill/xnydl/codex-dream-skin/?utm_source=github&utm_medium=awesome-list) |
 | [wiltonesten-web/codeximage-to-editable-ppt-v1](https://github.com/wiltonesten-web/codeximage-to-editable-ppt-v1) | 51 | 将基于图片的 PPT/PPTX 幻灯片重建为可编辑的 PPT演示文稿，分v1节省token版和v2高精度版。本skill属于v1节省token版 | [CAUTION](https://agentskillshub.top/skill/wiltonesten-web/codeximage-to-editable-ppt-v1/?utm_source=github&utm_medium=awesome-list) |
 | [renzo1031/visio-automation-skill](https://github.com/renzo1031/visio-automation-skill) | 47 | Codex skill for controlling Microsoft Visio with built-in stencils, masters, and dynamic connectors. | [SAFE](https://agentskillshub.top/skill/renzo1031/visio-automation-skill/?utm_source=github&utm_medium=awesome-list) |
 | [okooo5km/5km-littlebox-illustrations](https://github.com/okooo5km/5km-littlebox-illustrations) | 46 | Closed-only hand-drawn Littlebox article illustration Codex Skill | [SAFE](https://agentskillshub.top/skill/okooo5km/5km-littlebox-illustrations/?utm_source=github&utm_medium=awesome-list) |
@@ -183,7 +226,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 12.5k | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows | [SAFE](https://agentskillshub.top/skill/Imbad0202/academic-research-skills-codex/?utm_source=github&utm_medium=awesome-list) |
-| [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) | 2.8k | Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat… | [SAFE](https://agentskillshub.top/skill/leo-lilinxiao/codex-autoresearch/?utm_source=github&utm_medium=awesome-list) |
+| [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) | 2.9k | Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat… | [SAFE](https://agentskillshub.top/skill/leo-lilinxiao/codex-autoresearch/?utm_source=github&utm_medium=awesome-list) |
 | [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) | 1.7k | This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. | [SAFE](https://agentskillshub.top/skill/tom-doerr/zsh_codex/?utm_source=github&utm_medium=awesome-list) |
 | [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) | 1.7k | Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models. | [SAFE](https://agentskillshub.top/skill/vinhhien112/img2obj/?utm_source=github&utm_medium=awesome-list) |
 | [icebird1998/drawio-scientific-illustrator](https://github.com/icebird1998/drawio-scientific-illustrator) | 1.4k | Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex. | [SAFE](https://agentskillshub.top/skill/icebird1998/drawio-scientific-illustrator/?utm_source=github&utm_medium=awesome-list) |
@@ -273,7 +316,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) | 644 | MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly. | [SAFE](https://agentskillshub.top/skill/tuannvm/codex-mcp-server/?utm_source=github&utm_medium=awesome-list) |
-| [tudoumashu/ai-memory-skillpack](https://github.com/tudoumashu/ai-memory-skillpack) | 468 | Bounded project-memory skills for Codex CLI and Claude Code. | [SAFE](https://agentskillshub.top/skill/tudoumashu/ai-memory-skillpack/?utm_source=github&utm_medium=awesome-list) |
+| [tudoumashu/ai-memory-skillpack](https://github.com/tudoumashu/ai-memory-skillpack) | 469 | Bounded project-memory skills for Codex CLI and Claude Code. | [SAFE](https://agentskillshub.top/skill/tudoumashu/ai-memory-skillpack/?utm_source=github&utm_medium=awesome-list) |
 | [sendbird/cc-plugin-codex](https://github.com/sendbird/cc-plugin-codex) | 223 | An open-source plugin that runs inside Codex and lets you use Claude Code and Claude models for review, rescue, and tracked background workflows. | [SAFE](https://agentskillshub.top/skill/sendbird/cc-plugin-codex/?utm_source=github&utm_medium=awesome-list) |
 | [TheGoat395/Codex-Skills](https://github.com/TheGoat395/Codex-Skills) | 127 | Codex-first Agent Skills library for premium frontend, website, motion, accessibility, QA, and handoff workflows. | [SAFE](https://agentskillshub.top/skill/TheGoat395/Codex-Skills/?utm_source=github&utm_medium=awesome-list) |
 | [eLyiN/codex-bridge](https://github.com/eLyiN/codex-bridge) | 119 | A lightweight MCP server bridging AI agents to OpenAI models via official CLI | [SAFE](https://agentskillshub.top/skill/eLyiN/codex-bridge/?utm_source=github&utm_medium=awesome-list) |
