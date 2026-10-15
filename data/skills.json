@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11",
+ "generated": "2026-10-15",
  "source": "https://agentskillshub.top/best/codex-skills/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "AgriciDaniel/codex-seo",
    "path": null,
-   "stars": 802,
+   "stars": 814,
    "description": "Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, GEO/AEO, CWV, schema, backlinks, local/maps, and deterministic reports.",
    "kind": "collection",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "xiao24bei/xiaobei-skill",
    "path": null,
-   "stars": 586,
+   "stars": 597,
    "description": "小北在读研开源 Codex Skills 合集：Image to VBA、Academic Paper to PPT 等 AI + 科研工作流。",
    "kind": "collection",
    "security_grade": "safe",
@@ -61,19 +61,9 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "nihe0909/xiaohongshu-ai-workbench",
-   "path": null,
-   "stars": 583,
-   "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "CloudWave818/ieee-skills",
    "path": null,
-   "stars": 363,
+   "stars": 384,
    "description": "面向 IEEE 风格论文写作、润色、审稿、实验、图表、LaTeX、引用和论文阅读的 Codex skills。",
    "kind": "collection",
    "security_grade": "safe",
@@ -83,7 +73,7 @@
   {
    "repo_full_name": "haorantang97/LabArt",
    "path": null,
-   "stars": 286,
+   "stars": 289,
    "description": "A Codex marketplace of original visual and artistic creation skills.",
    "kind": "collection",
    "security_grade": "safe",
@@ -93,7 +83,7 @@
   {
    "repo_full_name": "XliuXjianX/blender-production-skills",
    "path": null,
-   "stars": 251,
+   "stars": 254,
    "description": "面向 Codex 的 Blender 生产级技能套件，包含原生建模、几何节点、模拟、材质、拓扑与场景验证，以及参考图重建工作流。",
    "kind": "collection",
    "security_grade": "safe",
@@ -103,7 +93,7 @@
   {
    "repo_full_name": "feiskyer/codex-settings",
    "path": null,
-   "stars": 245,
+   "stars": 247,
    "description": "Curated skills, profiles, and config templates that supercharge Codex CLI — multi-model, deep research, image gen & browser automation.",
    "kind": "collection",
    "security_grade": "safe",
@@ -121,19 +111,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Sven-LI-sankyuu/presentation-skills",
-   "path": null,
-   "stars": 175,
-   "description": "面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering editable PPT diagram collaboration and end-to-end web demo video synthesis.",
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
-  },
-  {
    "repo_full_name": "moonlarry/codex-paper-skills",
    "path": null,
-   "stars": 173,
+   "stars": 175,
    "description": "Codex运行规范及写论文使用的多个skills",
    "kind": "collection",
    "security_grade": "safe",
@@ -141,10 +121,20 @@
    "license": null
   },
   {
+   "repo_full_name": "Sven-LI-sankyuu/presentation-skills",
+   "path": null,
+   "stars": 174,
+   "description": "面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering editable PPT diagram collaboration and end-to-end web demo video synthesis.",
+   "kind": "collection",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "Vieeeeeee/wibi-style",
    "path": null,
-   "stars": 163,
-   "description": "39 installable visual-design skills for Codex, with reusable Python tooling and versioned packages. Turn photos into artwork. Try online: style.abdc.online",
+   "stars": 165,
+   "description": "41 installable visual-design skills for Codex, with reusable Python tooling and versioned packages. Turn photos into artwork. Try online: style.abdc.online",
    "kind": "collection",
    "security_grade": "safe",
    "language": "Python",
@@ -191,16 +181,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "haibarazz/awesome-codex-research",
-   "path": null,
-   "stars": 93,
-   "description": null,
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
-  },
-  {
    "repo_full_name": "grp06/useful-codex-skills",
    "path": null,
    "stars": 78,
@@ -231,9 +211,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "haibarazz/awesome-codex-research",
+   "path": null,
+   "stars": 45,
+   "description": null,
+   "kind": "collection",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "helloianneo/ian-xiaohei-illustrations",
    "path": null,
-   "stars": 12493,
+   "stars": 12580,
    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
    "kind": "skill",
    "security_grade": "safe",
@@ -243,7 +233,7 @@
   {
    "repo_full_name": "ningzimu/codex-ppt-skill",
    "path": null,
-   "stars": 6675,
+   "stars": 6906,
    "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
    "kind": "skill",
    "security_grade": "safe",
@@ -253,7 +243,7 @@
   {
    "repo_full_name": "ningzimu/image-to-editable-ppt-skill",
    "path": null,
-   "stars": 2861,
+   "stars": 2942,
    "description": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
    "kind": "skill",
    "security_grade": "safe",
@@ -263,7 +253,7 @@
   {
    "repo_full_name": "crazyykhllc-bit/CyberPPT",
    "path": null,
-   "stars": 1770,
+   "stars": 1797,
    "description": "一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。",
    "kind": "skill",
    "security_grade": "safe",
@@ -273,7 +263,7 @@
   {
    "repo_full_name": "vibeforge1111/keep-codex-fast",
    "path": null,
-   "stars": 1583,
+   "stars": 1588,
    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
    "kind": "skill",
    "security_grade": "safe",
@@ -283,7 +273,7 @@
   {
    "repo_full_name": "Kappaemme-git/codex-first-customer-finder-skill",
    "path": null,
-   "stars": 1080,
+   "stars": 1090,
    "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
    "kind": "skill",
    "security_grade": "safe",
@@ -293,7 +283,7 @@
   {
    "repo_full_name": "pengjunchi0/codex-visio-paper-figure-skill",
    "path": null,
-   "stars": 1011,
+   "stars": 1033,
    "description": "科研绘图skill、论文绘图skill、图片转visio等可编辑格式，将生成图转化为论文可编辑图，便于作者调整绘图细节",
    "kind": "skill",
    "security_grade": "safe",
@@ -303,7 +293,7 @@
   {
    "repo_full_name": "cclank/lanshu-animated-architecture-diagram",
    "path": null,
-   "stars": 994,
+   "stars": 998,
    "description": "Premium hand-drawn animated architecture diagram Codex skill",
    "kind": "skill",
    "security_grade": "safe",
@@ -333,7 +323,7 @@
   {
    "repo_full_name": "joeseesun/qiaomu-goal-meta-skill",
    "path": null,
-   "stars": 900,
+   "stars": 898,
    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
    "kind": "skill",
    "security_grade": "safe",
@@ -343,7 +333,7 @@
   {
    "repo_full_name": "Evianis/travel-photo-abstraction",
    "path": null,
-   "stars": 779,
+   "stars": 781,
    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions.",
    "kind": "skill",
    "security_grade": "safe",
@@ -353,7 +343,7 @@
   {
    "repo_full_name": "liyue-aigc/xianxia-visual-director",
    "path": null,
-   "stars": 576,
+   "stars": 581,
    "description": "Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures.",
    "kind": "skill",
    "security_grade": "safe",
@@ -363,7 +353,7 @@
   {
    "repo_full_name": "AAASS554/codex-academic-paper-skills",
    "path": null,
-   "stars": 538,
+   "stars": 541,
    "description": "Codex academic paper skills for software engineering thesis planning and revision",
    "kind": "skill",
    "security_grade": "safe",
@@ -373,7 +363,7 @@
   {
    "repo_full_name": "helloianneo/ian-xiaohei-scenes",
    "path": null,
-   "stars": 531,
+   "stars": 533,
    "description": "Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images",
    "kind": "skill",
    "security_grade": "safe",
@@ -383,7 +373,7 @@
   {
    "repo_full_name": "TaiT-tt/tait-crt-interface-skill",
    "path": null,
-   "stars": 521,
+   "stars": 526,
    "description": "TaiT-CRT-Interface-Skill is a Codex image generation skill that transforms user-uploaded portraits, photographs, or text descriptions into a retro illustration with the feel of an early CRT computer interface.",
    "kind": "skill",
    "security_grade": "safe",
@@ -393,7 +383,7 @@
   {
    "repo_full_name": "HaichaoLihc/create-photo-flipbook-ui",
    "path": null,
-   "stars": 492,
+   "stars": 518,
    "description": "Codex skill for building responsive 3D photo flipbook websites from user-supplied images",
    "kind": "skill",
    "security_grade": "safe",
@@ -401,19 +391,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Pikapika260214/rw-consulting-ppt",
-   "path": null,
-   "stars": 472,
-   "description": "Consulting deck skill with editable options for Codex",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "LunarXuan/image-prompt-reverse",
    "path": null,
-   "stars": 470,
+   "stars": 512,
    "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
    "kind": "skill",
    "security_grade": "safe",
@@ -421,9 +401,19 @@
    "license": "GPL-3.0"
   },
   {
+   "repo_full_name": "Pikapika260214/rw-consulting-ppt",
+   "path": null,
+   "stars": 482,
+   "description": "Consulting deck skill with editable options for Codex",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "wnby/photo-relic-editorial",
    "path": null,
-   "stars": 423,
+   "stars": 432,
    "description": "A Codex skill for transforming real photos into Photo Relic artworks: truthful photographs paired with quiet paper-memory prints.",
    "kind": "skill",
    "security_grade": "safe",
@@ -433,7 +423,7 @@
   {
    "repo_full_name": "Jane-xiaoer/paper-collage-ad-codex",
    "path": null,
-   "stars": 417,
+   "stars": 419,
    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
    "kind": "skill",
    "security_grade": "safe",
@@ -443,7 +433,7 @@
   {
    "repo_full_name": "hi-nikola/hand-drawn-explainer-video-nikola",
    "path": null,
-   "stars": 374,
+   "stars": 389,
    "description": "中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画",
    "kind": "skill",
    "security_grade": "safe",
@@ -453,18 +443,8 @@
   {
    "repo_full_name": "yuzhworkhard-wq/image-to-code",
    "path": null,
-   "stars": 348,
+   "stars": 347,
    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "laok775/jobflow-for-codex",
-   "path": null,
-   "stars": 299,
-   "description": "JobFlow for Codex: a local job-search workflow plugin for Codex.",
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
@@ -473,8 +453,18 @@
   {
    "repo_full_name": "zimo-xiao-zheng/godot-ui-integration",
    "path": null,
-   "stars": 290,
+   "stars": 315,
    "description": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "laok775/jobflow-for-codex",
+   "path": null,
+   "stars": 303,
+   "description": "JobFlow for Codex: a local job-search workflow plugin for Codex.",
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
@@ -483,7 +473,7 @@
   {
    "repo_full_name": "Brandon030722/ark-ui-skill",
    "path": null,
-   "stars": 274,
+   "stars": 279,
    "description": "Evidence-based Codex skill for five Ark-adjacent UI families and four application depths",
    "kind": "skill",
    "security_grade": "safe",
@@ -503,7 +493,7 @@
   {
    "repo_full_name": "LerSent001/holo-card",
    "path": null,
-   "stars": 257,
+   "stars": 263,
    "description": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
    "kind": "skill",
    "security_grade": "safe",
@@ -513,7 +503,7 @@
   {
    "repo_full_name": "0Antique/Auto-Visio-Helper",
    "path": null,
-   "stars": 244,
+   "stars": 246,
    "description": "用于帮助Codex操作本地Visio生成可编辑科研绘图的skill，支持自然语言转图、图片复现、JVSDX 生成和预览导出。欢迎大家使用~~",
    "kind": "skill",
    "security_grade": "safe",
@@ -523,7 +513,7 @@
   {
    "repo_full_name": "Lucaswangzcx/literature-downloader-skill",
    "path": null,
-   "stars": 239,
+   "stars": 244,
    "description": "A Chinese Codex skill for academic literature search, lawful full-text downloading, readable reports, and student-friendly paper lists.",
    "kind": "skill",
    "security_grade": "safe",
@@ -533,8 +523,18 @@
   {
    "repo_full_name": "yantoumu/adsense-site-auditor-skill",
    "path": null,
-   "stars": 237,
+   "stars": 241,
    "description": "Codex skill for exhaustive Google AdSense application readiness audits",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "AJbeckliy/detail-flow",
+   "path": null,
+   "stars": 219,
+   "description": "A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages.",
    "kind": "skill",
    "security_grade": "safe",
    "language": null,
@@ -551,16 +551,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "AJbeckliy/detail-flow",
-   "path": null,
-   "stars": 216,
-   "description": "A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages.",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": null,
-   "license": null
-  },
-  {
    "repo_full_name": "michaelpersonal/goal-forge",
    "path": null,
    "stars": 214,
@@ -569,6 +559,16 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "weeelin98/ResumeDom",
+   "path": null,
+   "stars": 201,
+   "description": "Evidence-first Codex skill for reviewing, rewriting, tailoring, and generating ATS-readable US tech resumes for CS interns and new grads.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
   },
   {
    "repo_full_name": "wwe-dog/ppt-image2-editable-rebuild",
@@ -613,7 +613,7 @@
   {
    "repo_full_name": "xdmlxdml/beamer2pptx",
    "path": null,
-   "stars": 180,
+   "stars": 178,
    "description": "A Codex Skill for converting Beamer PDFs into editable PowerPoint decks with native equations.",
    "kind": "skill",
    "security_grade": "safe",
@@ -621,19 +621,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "weeelin98/ResumeDom",
-   "path": null,
-   "stars": 177,
-   "description": "Evidence-first Codex skill for reviewing, rewriting, tailoring, and generating ATS-readable US tech resumes for CS interns and new grads.",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
-  },
-  {
    "repo_full_name": "carolinaaafy/travel-memory-card-duo",
    "path": null,
-   "stars": 166,
+   "stars": 170,
    "description": "Codex skill that outputs a finished travel memory card plus a separate transparent-background PNG sticker image with the same six motifs.",
    "kind": "skill",
    "security_grade": "safe",
@@ -663,12 +653,22 @@
   {
    "repo_full_name": "zhbi98/pcb-layout-design",
    "path": null,
-   "stars": 135,
+   "stars": 140,
    "description": "【Codex PCB Layout Skill】GPT-6  Astra/Sol x KiCad10. PCB 自动布线 Skill（涵盖通用规则，DDR，USB，CAN等各类接口的 ESD 器件泄放路径等专项规则）",
    "kind": "skill",
    "security_grade": "safe",
    "language": null,
    "license": null
+  },
+  {
+   "repo_full_name": "knight6669/knight-imagetopptx-skill",
+   "path": null,
+   "stars": 132,
+   "description": "Semantic slide image to editable PPTX Codex skill",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "GODGOD126/self-improving-for-codex",
@@ -681,19 +681,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "darksider-9/master-thesis-studio-skill",
-   "path": null,
-   "stars": 129,
-   "description": "面向东南大学的中文硕士论文写作与 Word 自动生成的 Codex Skill",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "dacnay816y62-hub/character-casting-studio-skill",
    "path": null,
-   "stars": 128,
+   "stars": 129,
    "description": "Material-reference-driven photorealistic character casting skill for Codex",
    "kind": "skill",
    "security_grade": "safe",
@@ -701,10 +691,10 @@
    "license": null
   },
   {
-   "repo_full_name": "knight6669/knight-imagetopptx-skill",
+   "repo_full_name": "darksider-9/master-thesis-studio-skill",
    "path": null,
    "stars": 128,
-   "description": "Semantic slide image to editable PPTX Codex skill",
+   "description": "面向东南大学的中文硕士论文写作与 Word 自动生成的 Codex Skill",
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
@@ -713,7 +703,7 @@
   {
    "repo_full_name": "FanPUYen/deep-reading-coach",
    "path": null,
-   "stars": 119,
+   "stars": 120,
    "description": "A Codex skill for deep reading books and PDFs",
    "kind": "skill",
    "security_grade": "safe",
@@ -721,9 +711,19 @@
    "license": null
   },
   {
-   "repo_full_name": "lokikill123/codex-token-skills",
+   "repo_full_name": "zyz254009-crypto/script-to-shootable-storyboard",
    "path": null,
    "stars": 119,
+   "description": "使用 Codex 开发的剧本转可拍分镜 Skill，在 Codex 中运行效果最佳，支持 Seedance、真人/混合制作与二次开发。",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "lokikill123/codex-token-skills",
+   "path": null,
+   "stars": 118,
    "description": "⚡ Cut 60-80% token cost for DeepSeek V4 Pro on Codex CLI. token-saver + memory skills with prefix-cache optimization.",
    "kind": "skill",
    "security_grade": "safe",
@@ -741,19 +741,9 @@
    "license": "NOASSERTION"
   },
   {
-   "repo_full_name": "zyz254009-crypto/script-to-shootable-storyboard",
-   "path": null,
-   "stars": 117,
-   "description": "使用 Codex 开发的剧本转可拍分镜 Skill，在 Codex 中运行效果最佳，支持 Seedance、真人/混合制作与二次开发。",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "DoraRabbitYan/personal-ip-image-pack",
    "path": null,
-   "stars": 115,
+   "stars": 116,
    "description": "将本人或已获授权的人物照片，转化为可复用、可持续扩展的个人卡通 IP 资产。",
    "kind": "skill",
    "security_grade": "safe",
@@ -763,7 +753,7 @@
   {
    "repo_full_name": "fangyuanopus/literature-report-ppt-builder",
    "path": null,
-   "stars": 110,
+   "stars": 111,
    "description": "Open-source Codex skill for academic literature-report PPT generation",
    "kind": "skill",
    "security_grade": "safe",
@@ -781,6 +771,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "uigiuf/codex-visio-replica-workflow",
+   "path": null,
+   "stars": 105,
+   "description": "Codex skill for recreating reference diagrams as editable Microsoft Visio files.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "PowerShell",
+   "license": null
+  },
+  {
    "repo_full_name": "lisamsung/agent-meme-forge",
    "path": null,
    "stars": 104,
@@ -791,14 +791,14 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "uigiuf/codex-visio-replica-workflow",
+   "repo_full_name": "ExplosiveCoderflome/ani-book-skill",
    "path": null,
-   "stars": 104,
-   "description": "Codex skill for recreating reference diagrams as editable Microsoft Visio files.",
+   "stars": 102,
+   "description": "面向 Codex 的长篇中文小说生产 Skill：以可恢复的 Markdown 工作流贯通灵感、规划、章节写作、审校与连续性管理。",
    "kind": "skill",
    "security_grade": "safe",
-   "language": "PowerShell",
-   "license": null
+   "language": "Python",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "grp06/goalcraft",
@@ -821,14 +821,14 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "ExplosiveCoderflome/ani-book-skill",
+   "repo_full_name": "caofan85-lab/research-paper-daily-push",
    "path": null,
    "stars": 101,
-   "description": "面向 Codex 的长篇中文小说生产 Skill：以可恢复的 Markdown 工作流贯通灵感、规划、章节写作、审校与连续性管理。",
+   "description": "可配置的 Codex Skill：每日检索、证据复核、评分、中文总结、微信推送、去重与研究记忆。",
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
-   "license": "Apache-2.0"
+   "license": "MIT"
   },
   {
    "repo_full_name": "pmlaowangba-lab/laowangba-pmprototype-skill",
@@ -851,16 +851,6 @@
    "license": "NOASSERTION"
   },
   {
-   "repo_full_name": "caofan85-lab/research-paper-daily-push",
-   "path": null,
-   "stars": 100,
-   "description": "可配置的 Codex Skill：每日检索、证据复核、评分、中文总结、微信推送、去重与研究记忆。",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "oil-oil/codex",
    "path": null,
    "stars": 100,
@@ -873,7 +863,7 @@
   {
    "repo_full_name": "See-Sol-Lab/private-house-code-v2.5",
    "path": null,
-   "stars": 93,
+   "stars": 94,
    "description": "让 Codex 少烧 Token、少造复杂度，同时不降智的代码约束 Skill",
    "kind": "skill",
    "security_grade": "safe",
@@ -891,20 +881,20 @@
    "license": null
   },
   {
-   "repo_full_name": "mengke-wang/zh-humanizer-literary",
+   "repo_full_name": "oldred-byte/ec-visual-skill",
    "path": null,
-   "stars": 87,
-   "description": "中文去 AI 味与文采增强 Codex Skill，汲取 Mengke / 好事风格，让中文草稿更像人写。",
+   "stars": 89,
+   "description": "Codex skill for e-commerce product visuals from product and reference images",
    "kind": "skill",
    "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
-   "repo_full_name": "oldred-byte/ec-visual-skill",
+   "repo_full_name": "mengke-wang/zh-humanizer-literary",
    "path": null,
-   "stars": 86,
-   "description": "Codex skill for e-commerce product visuals from product and reference images",
+   "stars": 88,
+   "description": "中文去 AI 味与文采增强 Codex Skill，汲取 Mengke / 好事风格，让中文草稿更像人写。",
    "kind": "skill",
    "security_grade": "safe",
    "language": null,
@@ -913,7 +903,7 @@
   {
    "repo_full_name": "xiaoTN/zelda-style-image-prompt",
    "path": null,
-   "stars": 83,
+   "stars": 84,
    "description": "Codex Skill for writing Zelda-style image prompts",
    "kind": "skill",
    "security_grade": "safe",
@@ -923,7 +913,7 @@
   {
    "repo_full_name": "LEON-gittech/Skill2Poster",
    "path": null,
-   "stars": 82,
+   "stars": 83,
    "description": "Codex skills for academic poster generation: turn paper content into accurate A0 HTML/PDF posters via AI design mockups.",
    "kind": "skill",
    "security_grade": "safe",
@@ -941,6 +931,16 @@
    "license": null
   },
   {
+   "repo_full_name": "cavoiie/fluent-cfd-skill",
+   "path": null,
+   "stars": 80,
+   "description": "A Codex skill for Ansys Fluent and PyFluent CFD workflows.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "sudoHG/codex-reset-credits-skill",
    "path": null,
    "stars": 80,
@@ -951,19 +951,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "cavoiie/fluent-cfd-skill",
-   "path": null,
-   "stars": 79,
-   "description": "A Codex skill for Ansys Fluent and PyFluent CFD workflows.",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "ACTAshui/sjtu-ppt-template-skill",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "Codex skill for creating editable Shanghai Jiao Tong University style PowerPoint decks",
    "kind": "skill",
    "security_grade": "safe",
@@ -973,7 +963,7 @@
   {
    "repo_full_name": "CheshireMew/Price-action-analysis",
    "path": null,
-   "stars": 69,
+   "stars": 71,
    "description": "Codex skill for annotated price action chart analysis",
    "kind": "skill",
    "security_grade": "safe",
@@ -983,11 +973,21 @@
   {
    "repo_full_name": "promptwhisper/clone-any-website-skill",
    "path": null,
-   "stars": 65,
+   "stars": 66,
    "description": "A Codex skill for rebuilding public websites as clean, maintainable projects with disciplined visual and interaction QA.",
    "kind": "skill",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Gyratingice-blip/codex-windows-bundled-plugin-repair",
+   "path": null,
+   "stars": 63,
+   "description": "Repair Codex Desktop bundled Chrome and Computer Use plugins on Windows.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "PowerShell",
    "license": "MIT"
   },
   {
@@ -1001,14 +1001,14 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "Gyratingice-blip/codex-windows-bundled-plugin-repair",
+   "repo_full_name": "xiaomaxueshufen/data-analysis",
    "path": null,
-   "stars": 62,
-   "description": "Repair Codex Desktop bundled Chrome and Computer Use plugins on Windows.",
+   "stars": 61,
+   "description": "面向 Excel/CSV 的证据优先数据分析 Codex skill，覆盖异动、漏斗、指标体系、AB 实验、因果、分层、贡献度、比率拆解与行业口径模板",
    "kind": "skill",
    "security_grade": "safe",
-   "language": "PowerShell",
-   "license": "MIT"
+   "language": "Python",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "XuToWei/Image-To-UI",
@@ -1041,19 +1041,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "xiaomaxueshufen/data-analysis",
-   "path": null,
-   "stars": 54,
-   "description": "面向 Excel/CSV 的证据优先数据分析 Codex skill，覆盖异动、漏斗、指标体系、AB 实验、因果、分层、贡献度、比率拆解与行业口径模板",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "wiltonesten-web/codeximage-to-editable-ppt-v1",
    "path": null,
-   "stars": 51,
+   "stars": 52,
    "description": "将基于图片的 PPT/PPTX 幻灯片重建为可编辑的 PPT演示文稿，分v1节省token版和v2高精度版。本skill属于v1节省token版",
    "kind": "skill",
    "security_grade": "caution",
@@ -1091,6 +1081,16 @@
    "license": null
   },
   {
+   "repo_full_name": "wnby/travel-photo-soft-abstraction",
+   "path": null,
+   "stars": 33,
+   "description": "A Codex skill for clean upper-photo/lower-abstraction travel artworks with source-readable soft visual distillation",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "yangchuansheng/patch-codex-fast",
    "path": null,
    "stars": 33,
@@ -1099,16 +1099,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "wnby/travel-photo-soft-abstraction",
-   "path": null,
-   "stars": 32,
-   "description": "A Codex skill for clean upper-photo/lower-abstraction travel artworks with source-readable soft visual distillation",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
   },
   {
    "repo_full_name": "huajiexiewenfeng/codex-token-usage-skill",
@@ -1141,6 +1131,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Wh1tZz/xiaoqishuo-card",
+   "path": null,
+   "stars": 19,
+   "description": "Codex skill: turn one uploaded card cover into an interactive Three.js holographic depth card web app.",
+   "kind": "skill",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
    "repo_full_name": "zaoshangduziteng/texture-scan-collage",
    "path": null,
    "stars": 19,
@@ -1148,16 +1148,6 @@
    "kind": "skill",
    "security_grade": "safe",
    "language": "Python",
-   "license": null
-  },
-  {
-   "repo_full_name": "Wh1tZz/xiaoqishuo-card",
-   "path": null,
-   "stars": 18,
-   "description": "Codex skill: turn one uploaded card cover into an interactive Three.js holographic depth card web app.",
-   "kind": "skill",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": null
   },
   {
@@ -1233,7 +1223,7 @@
   {
    "repo_full_name": "sunflower-of-parchman/codex-hygiene",
    "path": null,
-   "stars": 2,
+   "stars": 3,
    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
    "kind": "skill",
    "security_grade": "safe",
@@ -1243,7 +1233,7 @@
   {
    "repo_full_name": "Imbad0202/academic-research-skills-codex",
    "path": null,
-   "stars": 12524,
+   "stars": 12930,
    "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1253,7 +1243,7 @@
   {
    "repo_full_name": "leo-lilinxiao/codex-autoresearch",
    "path": null,
-   "stars": 2851,
+   "stars": 2924,
    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1263,7 +1253,7 @@
   {
    "repo_full_name": "tom-doerr/zsh_codex",
    "path": null,
-   "stars": 1733,
+   "stars": 1734,
    "description": "This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1273,7 +1263,7 @@
   {
    "repo_full_name": "vinhhien112/img2obj",
    "path": null,
-   "stars": 1673,
+   "stars": 1681,
    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1283,7 +1273,7 @@
   {
    "repo_full_name": "icebird1998/drawio-scientific-illustrator",
    "path": null,
-   "stars": 1446,
+   "stars": 1451,
    "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1293,7 +1283,7 @@
   {
    "repo_full_name": "icebird1998/scientific-illustrator",
    "path": null,
-   "stars": 917,
+   "stars": 931,
    "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1313,7 +1303,7 @@
   {
    "repo_full_name": "mengke-wang/xiaohongshu-ai-workbench",
    "path": null,
-   "stars": 583,
+   "stars": 589,
    "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1323,7 +1313,7 @@
   {
    "repo_full_name": "baskduf/FableCodex",
    "path": null,
-   "stars": 438,
+   "stars": 436,
    "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1333,7 +1323,7 @@
   {
    "repo_full_name": "haiou-666/haiou-codex",
    "path": null,
-   "stars": 375,
+   "stars": 379,
    "description": "海鸥 codeX 版 海鸥 codeX 版是一套面向 Codex 的本地增强配置包，通过自定义 AGENTS.md、模块化 Prompt 和专业 Skill，为 Codex 增加更直接的中文技术人格与安全研究工作流。",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1343,7 +1333,7 @@
   {
    "repo_full_name": "gnipbao/codex-whiteboard-video-skill",
    "path": null,
-   "stars": 328,
+   "stars": 331,
    "description": null,
    "kind": "plugin",
    "security_grade": "safe",
@@ -1351,19 +1341,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "haorantang97/TArt",
-   "path": null,
-   "stars": 286,
-   "description": "A Codex marketplace of original visual and artistic creation skills.",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "johnseth97/codex.nvim",
    "path": null,
-   "stars": 268,
+   "stars": 267,
    "description": "OpenAI Codex plugin for Neovim",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1373,7 +1353,7 @@
   {
    "repo_full_name": "duolahypercho/andrej-karpathy-skills",
    "path": null,
-   "stars": 250,
+   "stars": 258,
    "description": "Codex-first conversion of Karpathy-inspired coding agent guidelines.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1383,7 +1363,7 @@
   {
    "repo_full_name": "chipfighter/codex-attachment-manager",
    "path": null,
-   "stars": 229,
+   "stars": 235,
    "description": "Codex and Claude Code plugin (works in Claude Desktop): choose which past images go to the model with your next message. Unchecked images become placeholders, the conversation goes on, and requests stay small.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1393,17 +1373,7 @@
   {
    "repo_full_name": "Spark-To-Paper-Skills/paperjury-codex",
    "path": null,
-   "stars": 223,
-   "description": "Codex-first port of PaperJury, a pre-submission CS paper review and editing skill.",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "u7079256/paperjury-codex",
-   "path": null,
-   "stars": 223,
+   "stars": 224,
    "description": "Codex-first port of PaperJury, a pre-submission CS paper review and editing skill.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1413,7 +1383,7 @@
   {
    "repo_full_name": "ndycode/oc-codex-multi-auth",
    "path": null,
-   "stars": 200,
+   "stars": 205,
    "description": "OpenCode plugin for ChatGPT Plus/Pro OAuth with Codex/GPT-5 routing, multi-account rotation, account switching, health checks, diagnostics, and recovery tools",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1423,7 +1393,7 @@
   {
    "repo_full_name": "guard22/opencode-multi-auth-codex",
    "path": null,
-   "stars": 189,
+   "stars": 190,
    "description": "OpenCode account routing, session controls, dashboard, and reliability tooling for Codex OAuth",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1443,7 +1413,7 @@
   {
    "repo_full_name": "cexll/codex-mcp-server",
    "path": null,
-   "stars": 178,
+   "stars": 177,
    "description": "Codex Mcp Server ",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1453,7 +1423,7 @@
   {
    "repo_full_name": "kky42/codex-as-mcp",
    "path": null,
-   "stars": 175,
+   "stars": 176,
    "description": "Convert codex CLI tool to an MCP — unleash the power of GPT-5",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1493,7 +1463,7 @@
   {
    "repo_full_name": "callstackincubator/codex-mobile-dev-plugin",
    "path": null,
-   "stars": 153,
+   "stars": 155,
    "description": "A Codex plugin for a better mobile development experience for android and iOS",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1511,20 +1481,20 @@
    "license": null
   },
   {
-   "repo_full_name": "angieruiz17/codex-gpt-plugin",
+   "repo_full_name": "Xiangyu-CAS/codex-canvas",
    "path": null,
    "stars": 142,
-   "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
+   "description": "Infinite canvas plugin for codex;  Codex无限画布插件，图层分离，涂抹修改",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "Xiangyu-CAS/codex-canvas",
+   "repo_full_name": "angieruiz17/codex-gpt-plugin",
    "path": null,
-   "stars": 137,
-   "description": "Infinite canvas plugin for codex;  Codex无限画布插件，图层分离，涂抹修改",
+   "stars": 142,
+   "description": "codex gpt plugin that gives agent a direct line to logged-in chatgpt pro session",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -1553,7 +1523,7 @@
   {
    "repo_full_name": "Nhahan/WebGPT",
    "path": null,
-   "stars": 122,
+   "stars": 125,
    "description": "A Codex skill that delegates work to ChatGPT on the web.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1563,7 +1533,7 @@
   {
    "repo_full_name": "juew/Skill-Routing-Kit",
    "path": null,
-   "stars": 120,
+   "stars": 121,
    "description": "Skill Routing Kit 是一个本地优先的 Codex 插件，用来提升 skill 和插件的命中率，同时避免引入缓慢、强侵入的运行时路由层。",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1613,7 +1583,7 @@
   {
    "repo_full_name": "QIYU-JACKMAN/codexQIYU-image-workflow",
    "path": null,
-   "stars": 89,
+   "stars": 90,
    "description": "电商生图工作流是一套面向跨境电商的 Codex 图片生产插件，提供快捷生成、主图与详情页、自定分批、一比一复刻、风格裂变、批量改尺寸、批量 SKU 和局部迁移八种工作流，支持 GPT Image 2 提示词优化、生成确认、逐图质检与失败续跑。  A Codex plugin for ecommerce image production, featuring eight workflows with GPT Image 2 prompt optimization, approval gates, per-image quality checks, and resumable generation.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1621,20 +1591,20 @@
    "license": null
   },
   {
-   "repo_full_name": "pauljunsukhan/codex-chatgpt-pro-plugin",
+   "repo_full_name": "Aqua-123/pstack-for-codex",
    "path": null,
-   "stars": 83,
-   "description": "Give Codex an intelligence lifeline - Codex skill for calling ChatGPT Pro. Computer use, repomix file attach, thread isolation per repo.",
+   "stars": 86,
+   "description": "Codex-native engineering workflows derived from pstack, with 45 explicit skills and 23 Poteto Mode playbooks.",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "Aqua-123/pstack-for-codex",
+   "repo_full_name": "pauljunsukhan/codex-chatgpt-pro-plugin",
    "path": null,
-   "stars": 82,
-   "description": "Codex-native engineering workflows derived from pstack, with 45 explicit skills and 23 Poteto Mode playbooks.",
+   "stars": 83,
+   "description": "Give Codex an intelligence lifeline - Codex skill for calling ChatGPT Pro. Computer use, repomix file attach, thread isolation per repo.",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -1653,7 +1623,7 @@
   {
    "repo_full_name": "Squirbie/im-not-ai-codex",
    "path": null,
-   "stars": 71,
+   "stars": 72,
    "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1663,7 +1633,7 @@
   {
    "repo_full_name": "ScriptedAlchemy/pstack-codex",
    "path": null,
-   "stars": 69,
+   "stars": 70,
    "description": "Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workflows, and Benny automation adapters. Includes a Codex marketplace and installer.",
    "kind": "plugin",
    "security_grade": "safe",
@@ -1675,16 +1645,6 @@
    "path": null,
    "stars": 69,
    "description": "MCP server that lets Codex delegate to isolated codex exec sub-agents, selecting repo+global skills automatically",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "atman-33/kiro-for-codex",
-   "path": null,
-   "stars": 66,
-   "description": "VS Code extension for spec-driven development with Codex CLI. Manage specs, steering docs, and prompts visually, tightly integrated with Codex.",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "TypeScript",
@@ -1711,6 +1671,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "isLiuyx1/oh-my-folkstoryphoto",
+   "path": null,
+   "stars": 60,
+   "description": "Codex skill and optional plugin for creating self-reviewed Chinese folk-story photo carousels with authentic personal-camera-roll visuals.",
+   "kind": "plugin",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "tomascupr/codexMCP",
    "path": null,
    "stars": 60,
@@ -1721,10 +1691,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "isLiuyx1/oh-my-folkstoryphoto",
+   "repo_full_name": "chiphoton/MiniMax-H3-Codex-Drama",
    "path": null,
    "stars": 59,
-   "description": "Codex skill and optional plugin for creating self-reviewed Chinese folk-story photo carousels with authentic personal-camera-roll visuals.",
+   "description": "🎬 A Codex-first MiniMax H3 video production plugin: 👤 character & 🏙️ scene design, 🧩 storyboards, 🎞️ ComfyUI generation, ✂️ post-production, and ✅ QC.",
+   "kind": "plugin",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "maksimzayats/acodex",
+   "path": null,
+   "stars": 58,
+   "description": "Local MCP automation bridge for the Codex desktop app, with CLI, HTTP server, and live codex_app.* tool access.",
    "kind": "plugin",
    "security_grade": "safe",
    "language": "Python",
@@ -1739,26 +1719,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": null
-  },
-  {
-   "repo_full_name": "chiphoton/MiniMax-H3-Codex-Drama",
-   "path": null,
-   "stars": 57,
-   "description": "🎬 A Codex-first MiniMax H3 video production plugin: 👤 character & 🏙️ scene design, 🧩 storyboards, 🎞️ ComfyUI generation, ✂️ post-production, and ✅ QC.",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "maksimzayats/acodex",
-   "path": null,
-   "stars": 57,
-   "description": "Local MCP automation bridge for the Codex desktop app, with CLI, HTTP server, and live codex_app.* tool access.",
-   "kind": "plugin",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "plastic-labs/codex-honcho",
@@ -1853,7 +1813,7 @@
   {
    "repo_full_name": "donvito/codex-astra-luna-orchestrator",
    "path": null,
-   "stars": 1701,
+   "stars": 1714,
    "description": "Use Astra or Sol as orchestrator and Luna for subagents in Codex",
    "kind": "workflow",
    "security_grade": "safe",
@@ -1863,7 +1823,7 @@
   {
    "repo_full_name": "monarchjuno/tradingcodex",
    "path": null,
-   "stars": 374,
+   "stars": 372,
    "description": "Turn Codex into your investment workflow team",
    "kind": "workflow",
    "security_grade": "safe",
@@ -1883,7 +1843,7 @@
   {
    "repo_full_name": "PabloNAX/ultracode-skill",
    "path": null,
-   "stars": 187,
+   "stars": 190,
    "description": "Codex-first Ultracode skill for dynamic coding workflows",
    "kind": "workflow",
    "security_grade": "safe",
@@ -1893,7 +1853,7 @@
   {
    "repo_full_name": "aresyn/codex-control-plane-mcp",
    "path": null,
-   "stars": 124,
+   "stars": 125,
    "description": "Durable MCP control plane for long-running Codex Desktop tasks",
    "kind": "workflow",
    "security_grade": "safe",
@@ -1933,21 +1893,11 @@
   {
    "repo_full_name": "mturac/everything-openai-codex",
    "path": null,
-   "stars": 85,
+   "stars": 86,
    "description": "EOC: open-source operating system for OpenAI Codex workflows with agents, skills, hooks, rules, memory, safety gates, and cross-harness adapters.",
    "kind": "workflow",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "YUTA-fywoo/chatgpt-web-workers",
-   "path": null,
-   "stars": 64,
-   "description": "No extra MCP/API-key setup in supported Codex desktop. Internal Chat reads reduce host token overhead. Astra coordinates 1–6 Extra High Chats (4–6 for large tasks), with bounded stages and webpage sends. 中英双语 · MIT",
-   "kind": "workflow",
-   "security_grade": "safe",
-   "language": null,
    "license": "MIT"
   },
   {
@@ -1981,6 +1931,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "YUTA-fywoo/chatgpt-web-workers",
+   "path": null,
+   "stars": 42,
+   "description": "No extra MCP/API-key setup in supported Codex desktop. Internal Chat reads reduce host token overhead. Astra coordinates 1–6 Extra High Chats (4–6 for large tasks), with bounded stages and webpage sends. 中英双语 · MIT",
+   "kind": "workflow",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "tuannvm/codex-mcp-server",
    "path": null,
    "stars": 644,
@@ -1993,7 +1953,7 @@
   {
    "repo_full_name": "tudoumashu/ai-memory-skillpack",
    "path": null,
-   "stars": 469,
+   "stars": 496,
    "description": "Bounded project-memory skills for Codex CLI and Claude Code.",
    "kind": "bridge",
    "security_grade": "safe",
@@ -2003,7 +1963,7 @@
   {
    "repo_full_name": "sendbird/cc-plugin-codex",
    "path": null,
-   "stars": 223,
+   "stars": 222,
    "description": "An open-source plugin that runs inside Codex and lets you use Claude Code and Claude models for review, rescue, and tracked background workflows.",
    "kind": "bridge",
    "security_grade": "safe",
@@ -2063,7 +2023,7 @@
   {
    "repo_full_name": "w31r4/codex-mcp-go",
    "path": null,
-   "stars": 52,
+   "stars": 51,
    "description": "codex-mcp-go is a Go-based MCP (Model Context Protocol) server that serves as a bridge for Codex CLI, enabling various AI coding assistants (such as Claude Code, Roo Code, KiloCode, etc.) to seamlessly collaborate with Codex.",
    "kind": "bridge",
    "security_grade": "safe",
@@ -2073,7 +2033,7 @@
   {
    "repo_full_name": "yynxxxxx/Codex-X",
    "path": null,
-   "stars": 4136,
+   "stars": 4218,
    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2083,7 +2043,7 @@
   {
    "repo_full_name": "CalebYcj/codex-rehome",
    "path": null,
-   "stars": 358,
+   "stars": 371,
    "description": "Offline Codex Desktop migration for Windows and macOS.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2093,7 +2053,7 @@
   {
    "repo_full_name": "douglasmonsky/codex-usage-tracker",
    "path": null,
-   "stars": 195,
+   "stars": 196,
    "description": "Local-first MCP tools and dashboard for investigating Codex token usage, credits, costs, caching, and thread patterns.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2103,7 +2063,7 @@
   {
    "repo_full_name": "Khalilzhang0825/boring-is-all-you-need",
    "path": null,
-   "stars": 172,
+   "stars": 169,
    "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, risk-based review, scoped checkpoint commits, and release evidence.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2121,16 +2081,6 @@
    "license": null
   },
   {
-   "repo_full_name": "herry2059/project-os-for-codex",
-   "path": null,
-   "stars": 102,
-   "description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
-   "kind": "tooling",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "manhvann/codexkit",
    "path": null,
    "stars": 89,
@@ -2143,7 +2093,7 @@
   {
    "repo_full_name": "dgk-dev/dgk-gpt",
    "path": null,
-   "stars": 56,
+   "stars": 55,
    "description": "Safe Codex CLI setup installer with skills, AGENTS.md, profiles, and MCP defaults",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2158,6 +2108,16 @@
    "kind": "tooling",
    "security_grade": "safe",
    "language": "Rust",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "herry2059/project-os-for-codex",
+   "path": null,
+   "stars": 31,
+   "description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
+   "kind": "tooling",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "Apache-2.0"
   },
   {
