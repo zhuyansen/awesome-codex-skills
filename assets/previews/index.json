@@ -69,6 +69,16 @@
   "file": "knight6669__knight-imagetopptx-skill.jpg",
   "still": "knight6669__knight-imagetopptx-skill.jpg"
  },
+ "lisamsung/agent-meme-forge": {
+  "repo": "lisamsung/agent-meme-forge",
+  "url": "https://raw.githubusercontent.com/lisamsung/agent-meme-forge/HEAD/docs/assets/ai-mascot-shoudao-lixian.gif",
+  "alt": "HR已读",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 270985,
+  "file": "lisamsung__agent-meme-forge.gif",
+  "still": "lisamsung__agent-meme-forge.jpg"
+ },
  "ningzimu/codex-ppt-skill": {
   "repo": "ningzimu/codex-ppt-skill",
   "url": "https://raw.githubusercontent.com/ningzimu/codex-ppt-skill/HEAD/assets/slides_example.png",
