@@ -99,6 +99,16 @@
   "file": "ningzimu__image-to-editable-ppt-skill.jpg",
   "still": "ningzimu__image-to-editable-ppt-skill.jpg"
  },
+ "vinhhien112/img2obj": {
+  "repo": "vinhhien112/img2obj",
+  "url": "https://raw.githubusercontent.com/vinhhien112/img2obj/HEAD/assets/tower-ship-demo.png",
+  "alt": "Procedural Three.js Tower Ship demo generated from an attached reference image",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 2680191,
+  "file": "vinhhien112__img2obj.jpg",
+  "still": "vinhhien112__img2obj.jpg"
+ },
  "wiltonesten-web/codeximage-to-editable-ppt-v1": {
   "repo": "wiltonesten-web/codeximage-to-editable-ppt-v1",
   "url": "https://raw.githubusercontent.com/wiltonesten-web/codeximage-to-editable-ppt-v1/HEAD/examples/csh-nep-editable-slide/original-flattened-slide.png",
