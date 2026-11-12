@@ -19,6 +19,16 @@
   "file": "Ronnie2025__codex-ppt-skill.jpg",
   "still": "Ronnie2025__codex-ppt-skill.jpg"
  },
+ "cclank/lanshu-animated-architecture-diagram": {
+  "repo": "cclank/lanshu-animated-architecture-diagram",
+  "url": "https://raw.githubusercontent.com/cclank/lanshu-animated-architecture-diagram/HEAD/assets/previews/claude-loops.gif",
+  "alt": "Claude Loops animated architecture diagram",
+  "score": 0.2,
+  "type": "image/gif",
+  "bytes": 7740963,
+  "file": "cclank__lanshu-animated-architecture-diagram.gif",
+  "still": "cclank__lanshu-animated-architecture-diagram.jpg"
+ },
  "crazyykhllc-bit/CyberPPT": {
   "repo": "crazyykhllc-bit/CyberPPT",
   "url": "https://raw.githubusercontent.com/crazyykhllc-bit/CyberPPT/HEAD/assets/palette-samples/palette-01.png",

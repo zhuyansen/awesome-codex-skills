@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `cclank__lanshu-animated-architecture-diagram.gif` | [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) | MIT | [source](https://raw.githubusercontent.com/cclank/lanshu-animated-architecture-diagram/HEAD/assets/previews/claude-loops.gif) |
 | `crazyykhllc-bit__CyberPPT.jpg` | [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | MIT | [source](https://raw.githubusercontent.com/crazyykhllc-bit/CyberPPT/HEAD/assets/palette-samples/palette-01.png) |
 | `fangyuanopus__literature-report-ppt-builder.jpg` | [fangyuanopus/literature-report-ppt-builder](https://github.com/fangyuanopus/literature-report-ppt-builder) | MIT | [source](https://raw.githubusercontent.com/fangyuanopus/literature-report-ppt-builder/HEAD/docs/images/demo-slide-01-title.jpg) |
 | `hi-nikola__hand-drawn-explainer-video-nikola.jpg` | [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | Apache-2.0 | [source](https://raw.githubusercontent.com/hi-nikola/hand-drawn-explainer-video-nikola/HEAD/examples/stroke-story/yuefa-sanzhang/seven-scenes-final-frames.jpg) |
