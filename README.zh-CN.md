@@ -89,12 +89,12 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [AgriciDaniel/chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) | 924 | 将页面、草稿或 SEO 导出内容转为 ChatGPT 中的有来源修复计划。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/chatgpt-seo/) |
-| [xiao24bei/xiaobei-skill](https://github.com/xiao24bei/xiaobei-skill) | 621 | Codex Skills 合集：Image to VBA、Academic Paper to PPT 等 AI 科研工作流。 | [SAFE](https://agentskillshub.top/skill/xiao24bei/xiaobei-skill/) |
-| [CloudWave818/ieee-skills](https://github.com/CloudWave818/ieee-skills) | 442 | 面向 IEEE 论文写作、润色、审稿、实验、图表、LaTeX、引用与阅读的 Codex skills。 | [SAFE](https://agentskillshub.top/skill/CloudWave818/ieee-skills/) |
+| [AgriciDaniel/chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) | 925 | 将页面、草稿或 SEO 导出内容转为 ChatGPT 中的有来源修复计划。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/chatgpt-seo/) |
+| [xiao24bei/xiaobei-skill](https://github.com/xiao24bei/xiaobei-skill) | 623 | Codex Skills 合集：Image to VBA、Academic Paper to PPT 等 AI 科研工作流。 | [SAFE](https://agentskillshub.top/skill/xiao24bei/xiaobei-skill/) |
+| [CloudWave818/ieee-skills](https://github.com/CloudWave818/ieee-skills) | 444 | 面向 IEEE 论文写作、润色、审稿、实验、图表、LaTeX、引用与阅读的 Codex skills。 | [SAFE](https://agentskillshub.top/skill/CloudWave818/ieee-skills/) |
 | [haorantang97/LabArt](https://github.com/haorantang97/LabArt) | 292 | Codex 原创视觉与艺术创作 skill 市集 | [SAFE](https://agentskillshub.top/skill/haorantang97/LabArt/) |
-| [XliuXjianX/blender-production-skills](https://github.com/XliuXjianX/blender-production-skills) | 287 | Codex 的 Blender 生产级技能套件：建模、几何节点、模拟、材质、拓扑、场景验证与参考图重建。 | [SAFE](https://agentskillshub.top/skill/XliuXjianX/blender-production-skills/) |
-| [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) | 249 | 为 Codex CLI 精选 skills、profiles 和配置模板，支持多模型、深度研究、图像生成和浏览器自动化。 | [SAFE](https://agentskillshub.top/skill/feiskyer/codex-settings/) |
+| [XliuXjianX/blender-production-skills](https://github.com/XliuXjianX/blender-production-skills) | 288 | Codex 的 Blender 生产级技能套件：建模、几何节点、模拟、材质、拓扑、场景验证与参考图重建。 | [SAFE](https://agentskillshub.top/skill/XliuXjianX/blender-production-skills/) |
+| [feiskyer/codex-settings](https://github.com/feiskyer/codex-settings) | 250 | 为 Codex CLI 精选 skills、profiles 和配置模板，支持多模型、深度研究、图像生成和浏览器自动化。 | [SAFE](https://agentskillshub.top/skill/feiskyer/codex-settings/) |
 | [yokel1121/muyang-illustration-skills](https://github.com/yokel1121/muyang-illustration-skills) | 222 | Codex 的25种固定插画风格：9个 skill、提示词配方和视觉参考 | [SAFE](https://agentskillshub.top/skill/yokel1121/muyang-illustration-skills/) |
 | [Vieeeeeee/wibi-style](https://github.com/Vieeeeeee/wibi-style) | 188 | 适用于 Codex 的 36 个可安装视觉设计 skill，含可复用 Python 工具和版本化软件包。将照片转为艺术作品。在线体验：style.abdc.o… | [SAFE](https://agentskillshub.top/skill/Vieeeeeee/wibi-style/) |
 | [moonlarry/codex-paper-skills](https://github.com/moonlarry/codex-paper-skills) | 183 | Codex运行规范及论文写作所用的多个skill | [SAFE](https://agentskillshub.top/skill/moonlarry/codex-paper-skills/) |
@@ -130,17 +130,17 @@
 | [pengjunchi0/codex-visio-paper-figure-skill](https://github.com/pengjunchi0/codex-visio-paper-figure-skill) | 1.2k | 科研绘图skill、论文绘图skill：将图片转为可编辑格式，便于调整细节 | [SAFE](https://agentskillshub.top/skill/pengjunchi0/codex-visio-paper-figure-skill/) |
 | [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) | 1.0k | 手绘动画架构图 Codex skill | [SAFE](https://agentskillshub.top/skill/cclank/lanshu-animated-architecture-diagram/) |
 | [Kappaemme-git/codex-startup-pressure-test-skill](https://github.com/Kappaemme-git/codex-startup-pressure-test-skill) | 996 | 用 Codex 严格检验创业想法，输出诊断、缺陷、竞争分析和两周 MVP 方向。 | [SAFE](https://agentskillshub.top/skill/Kappaemme-git/codex-startup-pressure-test-skill/) |
+| [LunarXuan/image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse) | 915 | 适用于 Codex 的高保真 AI 图像提示词逆向工程 skill | [SAFE](https://agentskillshub.top/skill/LunarXuan/image-prompt-reverse/) |
 | [Kappaemme-git/codex-complexity-optimizer](https://github.com/Kappaemme-git/codex-complexity-optimizer) | 912 | 用于安全分析代码库复杂度并生成性能优化报告的 Codex skill | [SAFE](https://agentskillshub.top/skill/Kappaemme-git/codex-complexity-optimizer/) |
-| [LunarXuan/image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse) | 910 | 适用于 Codex 的高保真 AI 图像提示词逆向工程 skill | [SAFE](https://agentskillshub.top/skill/LunarXuan/image-prompt-reverse/) |
 | [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill) | 910 | 将模糊或复杂的 Codex 任务转为明确的 /goal 命令，包含结果、验证、约束、边界、迭代策略和完成证据 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-goal-meta-skill/) |
 | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) | 802 | 源码可用的 Codex skill，用于将照片提炼为简约的编辑式抽象。 | [SAFE](https://agentskillshub.top/skill/Evianis/travel-photo-abstraction/) |
-| [HaichaoLihc/create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) | 677 | 用于使用用户提供的图片构建响应式 3D 照片翻页网站的 Codex skill | [SAFE](https://agentskillshub.top/skill/HaichaoLihc/create-photo-flipbook-ui/) |
+| [HaichaoLihc/create-photo-flipbook-ui](https://github.com/HaichaoLihc/create-photo-flipbook-ui) | 678 | 用于使用用户提供的图片构建响应式 3D 照片翻页网站的 Codex skill | [SAFE](https://agentskillshub.top/skill/HaichaoLihc/create-photo-flipbook-ui/) |
 | [liyue-aigc/xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) | 595 | Codex skill：电影感东方仙侠静帧、天界和天空巨型结构。 | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-visual-director/) |
-| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 560 | 带可编辑选项的咨询演示文稿 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
-| [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) | 556 | Xiaohei 2.0 Codex skill：用于中文实物文章插图和长图故事图片 | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-xiaohei-scenes/) |
-| [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 550 | TaiT-CRT-Interface-Skill 是 Codex 图像生成 skill，可将人像、照片或文字描述转换为早期 CRT 计算机界面风格的复古插画。 | [SAFE](https://agentskillshub.top/skill/TaiT-tt/tait-crt-interface-skill/) |
+| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 563 | 带可编辑选项的咨询演示文稿 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
+| [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) | 559 | Xiaohei 2.0 Codex skill：用于中文实物文章插图和长图故事图片 | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-xiaohei-scenes/) |
+| [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 552 | TaiT-CRT-Interface-Skill 是 Codex 图像生成 skill，可将人像、照片或文字描述转换为早期 CRT 计算机界面风格的复古插画。 | [SAFE](https://agentskillshub.top/skill/TaiT-tt/tait-crt-interface-skill/) |
 | [AAASS554/codex-academic-paper-skills](https://github.com/AAASS554/codex-academic-paper-skills) | 544 | Codex 学术论文 skills，用于软件工程论文规划和修改 | [SAFE](https://agentskillshub.top/skill/AAASS554/codex-academic-paper-skills/) |
-| [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | 487 | 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画 | [SAFE](https://agentskillshub.top/skill/hi-nikola/hand-drawn-explainer-video-nikola/) |
+| [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | 489 | 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画 | [SAFE](https://agentskillshub.top/skill/hi-nikola/hand-drawn-explainer-video-nikola/) |
 | [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial) | 454 | 将真实照片转化为 Photo Relic 艺术作品的 Codex skill：真实照片配静谧的纸质记忆印件。 | [SAFE](https://agentskillshub.top/skill/wnby/photo-relic-editorial/) |
 | [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) | 427 | 用于完整剪纸拼贴广告制作的 Codex skill，支持本地 IndexTTS-2 声音克隆、动画、音频和 MP4 质检 | [SAFE](https://agentskillshub.top/skill/Jane-xiaoer/paper-collage-ad-codex/) |
 | [yuzhworkhard-wq/image-to-code](https://github.com/yuzhworkhard-wq/image-to-code) | 354 | 用于 750px 图像转代码重建和透明 PNG 切片的 Codex skill | [SAFE](https://agentskillshub.top/skill/yuzhworkhard-wq/image-to-code/) |
@@ -148,24 +148,24 @@
 | [laok775/jobflow-for-codex](https://github.com/laok775/jobflow-for-codex) | 317 | Codex 的 JobFlow：本地求职工作流插件 | [SAFE](https://agentskillshub.top/skill/laok775/jobflow-for-codex/) |
 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | 297 | 用于规划、生成、审核和交付电商产品详情页的可复用 Codex skill。 | [SAFE](https://agentskillshub.top/skill/AJbeckliy/detail-flow/) |
 | [Brandon030722/ark-ui-skill](https://github.com/Brandon030722/ark-ui-skill) | 297 | 基于证据的 Codex skill，涵盖五类 Ark 相关 UI 和四种应用深度 | [SAFE](https://agentskillshub.top/skill/Brandon030722/ark-ui-skill/) |
-| [Lucaswangzcx/literature-downloader-skill](https://github.com/Lucaswangzcx/literature-downloader-skill) | 292 | 用于学术文献检索、合法全文下载、可读报告和学生友好论文列表的中文 Codex skill。 | [SAFE](https://agentskillshub.top/skill/Lucaswangzcx/literature-downloader-skill/) |
+| [Lucaswangzcx/literature-downloader-skill](https://github.com/Lucaswangzcx/literature-downloader-skill) | 296 | 用于学术文献检索、合法全文下载、可读报告和学生友好论文列表的中文 Codex skill。 | [SAFE](https://agentskillshub.top/skill/Lucaswangzcx/literature-downloader-skill/) |
 | [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) | 280 | 用于东方仙侠题材分镜、运镜和视频连贯性的 Codex Skill | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-cinematic-video-director/) |
 | [LerSent001/holo-card](https://github.com/LerSent001/holo-card) | 278 | 支持视差和轮廓发光的分层全息卡片 Codex skill，可选 API 工作流 | [SAFE](https://agentskillshub.top/skill/LerSent001/holo-card/) |
-| [yantoumu/adsense-site-auditor-skill](https://github.com/yantoumu/adsense-site-auditor-skill) | 265 | 用于全面审计 Google AdSense 申请准备情况的 Codex skill | [SAFE](https://agentskillshub.top/skill/yantoumu/adsense-site-auditor-skill/) |
-| [0Antique/Auto-Visio-Helper](https://github.com/0Antique/Auto-Visio-Helper) | 258 | 帮助 Codex 操作本地 Visio 生成可编辑科研绘图的 skill，支持自然语言转图、图片复现、JVSDX 生成、预览和导出。 | [SAFE](https://agentskillshub.top/skill/0Antique/Auto-Visio-Helper/) |
+| [yantoumu/adsense-site-auditor-skill](https://github.com/yantoumu/adsense-site-auditor-skill) | 266 | 用于全面审计 Google AdSense 申请准备情况的 Codex skill | [SAFE](https://agentskillshub.top/skill/yantoumu/adsense-site-auditor-skill/) |
+| [0Antique/Auto-Visio-Helper](https://github.com/0Antique/Auto-Visio-Helper) | 259 | 帮助 Codex 操作本地 Visio 生成可编辑科研绘图的 skill，支持自然语言转图、图片复现、JVSDX 生成、预览和导出。 | [SAFE](https://agentskillshub.top/skill/0Antique/Auto-Visio-Helper/) |
 | [Ronnie2025/codex-ppt-skill](https://github.com/Ronnie2025/codex-ppt-skill) | 224 | 中文 toB 商业汇报的 Codex PPT 生图、元素重组与 SVG 拆解工作流 | [SAFE](https://agentskillshub.top/skill/Ronnie2025/codex-ppt-skill/) |
 | [michaelpersonal/goal-forge](https://github.com/michaelpersonal/goal-forge) | 217 | Codex skill：将粗略编码想法转化为 SPEC.md、GOAL.md 和 /goal-ready 合约。 | [SAFE](https://agentskillshub.top/skill/michaelpersonal/goal-forge/) |
-| [wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild) | 204 | 基于截图/参考图重建可编辑PPT的Codex skill：用image2/imagegen生成参考图，以局部截图保留视觉资产并重建可编辑元素。 | [SAFE](https://agentskillshub.top/skill/wwe-dog/ppt-image2-editable-rebuild/) |
-| [izscc/cc2image](https://github.com/izscc/cc2image) | 195 | Codex 中文内容交互式生图 Skill：认知锚点拆图，49套内容风格、8套Logo/图标模式，支持封面、配图、系列主视觉和批量提示词。 | [SAFE](https://agentskillshub.top/skill/izscc/cc2image/) |
+| [wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild) | 205 | 基于截图/参考图重建可编辑PPT的Codex skill：用image2/imagegen生成参考图，以局部截图保留视觉资产并重建可编辑元素。 | [SAFE](https://agentskillshub.top/skill/wwe-dog/ppt-image2-editable-rebuild/) |
+| [izscc/cc2image](https://github.com/izscc/cc2image) | 196 | Codex 中文内容交互式生图 Skill：认知锚点拆图，49套内容风格、8套Logo/图标模式，支持封面、配图、系列主视觉和批量提示词。 | [SAFE](https://agentskillshub.top/skill/izscc/cc2image/) |
 | [weeelin98/ResumeDom](https://github.com/weeelin98/ResumeDom) | 186 | 以证据为先的 Codex skill，用于审核、改写、定制和生成适合 ATS 读取的美国科技简历，面向计算机科学实习生和应届毕业生。 | [SAFE](https://agentskillshub.top/skill/weeelin98/ResumeDom/) |
 | [Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill) | 185 | 实验性双语 Codex skill，用于受 ETERNA 启发的 image2image 电影感色彩与构图。 | [SAFE](https://agentskillshub.top/skill/Cuimao777/eterna-image2image-skill/) |
 | [tao943/build-resume-portfolio-site](https://github.com/tao943/build-resume-portfolio-site) | 183 | 用于构建分阶段 React + Vite 简历和作品集网站的 Codex skill | [SAFE](https://agentskillshub.top/skill/tao943/build-resume-portfolio-site/) |
-| [zhbi98/pcb-layout-design](https://github.com/zhbi98/pcb-layout-design) | 177 | Codex PCB Layout Skill：GPT-6 Astra/Sol × KiCad10 的 PCB 自动布线，涵盖通用规则、DDR/USB/CAN… | [SAFE](https://agentskillshub.top/skill/zhbi98/pcb-layout-design/) |
+| [zhbi98/pcb-layout-design](https://github.com/zhbi98/pcb-layout-design) | 179 | Codex PCB Layout Skill：GPT-6 Astra/Sol × KiCad10 的 PCB 自动布线，涵盖通用规则、DDR/USB/CAN… | [SAFE](https://agentskillshub.top/skill/zhbi98/pcb-layout-design/) |
 | [carolinaaafy/travel-memory-card-duo](https://github.com/carolinaaafy/travel-memory-card-duo) | 176 | Codex skill：输出成品旅行纪念卡及含相同六种图案的透明背景 PNG 贴纸图。 | [SAFE](https://agentskillshub.top/skill/carolinaaafy/travel-memory-card-duo/) |
 | [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | 176 | 将 Beamer PDF 转换为含原生公式的可编辑 PowerPoint 演示文稿的 Codex Skill。 | [SAFE](https://agentskillshub.top/skill/xdmlxdml/beamer2pptx/) |
 | [1838904818/audit-repo](https://github.com/1838904818/audit-repo) | 155 | 用于基于证据审计仓库健康状况的 Codex skill | [SAFE](https://agentskillshub.top/skill/1838904818/audit-repo/) |
-| [chenzixin1/watchless](https://github.com/chenzixin1/watchless) | 149 | 将视频转为完整关键帧驱动视觉文档的 Codex skill | [SAFE](https://agentskillshub.top/skill/chenzixin1/watchless/) |
-| [dacnay816y62-hub/character-casting-studio-skill](https://github.com/dacnay816y62-hub/character-casting-studio-skill) | 145 | 基于材质参考的照片级写实角色选角 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/character-casting-studio-skill/) |
+| [chenzixin1/watchless](https://github.com/chenzixin1/watchless) | 150 | 将视频转为完整关键帧驱动视觉文档的 Codex skill | [SAFE](https://agentskillshub.top/skill/chenzixin1/watchless/) |
+| [dacnay816y62-hub/character-casting-studio-skill](https://github.com/dacnay816y62-hub/character-casting-studio-skill) | 146 | 基于材质参考的照片级写实角色选角 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/character-casting-studio-skill/) |
 | [knight6669/knight-imagetopptx-skill](https://github.com/knight6669/knight-imagetopptx-skill) | 141 | 将语义幻灯片图像转换为可编辑 PPTX 的 Codex skill | [SAFE](https://agentskillshub.top/skill/knight6669/knight-imagetopptx-skill/) |
 | [GODGOD126/self-improving-for-codex](https://github.com/GODGOD126/self-improving-for-codex) | 132 | 基于 AGENTS.md、记忆和夜间复盘自动化的 Codex 原生自我改进 skill。 | [SAFE](https://agentskillshub.top/skill/GODGOD126/self-improving-for-codex/) |
 | [darksider-9/master-thesis-studio-skill](https://github.com/darksider-9/master-thesis-studio-skill) | 132 | 东南大学中文硕士论文写作与 Word 自动生成 Codex Skill | [SAFE](https://agentskillshub.top/skill/darksider-9/master-thesis-studio-skill/) |
@@ -176,27 +176,27 @@
 | [ExplosiveCoderflome/ani-book-skill](https://github.com/ExplosiveCoderflome/ani-book-skill) | 119 | 面向 Codex 的长篇中文小说创作 Skill：用可恢复的 Markdown 工作流管理灵感、规划、写作、审校和连续性。 | [SAFE](https://agentskillshub.top/skill/ExplosiveCoderflome/ani-book-skill/) |
 | [superpilot69/pdf-trad-to-simp-preserve-layout-kit](https://github.com/superpilot69/pdf-trad-to-simp-preserve-layout-kit) | 118 | PDF 繁体转简体转换工具包，含保留版式脚本、Codex skill 及示例源文件和输出 PDF。 | [SAFE](https://agentskillshub.top/skill/superpilot69/pdf-trad-to-simp-preserve-layout-kit/) |
 | [lokikill123/codex-token-skills](https://github.com/lokikill123/codex-token-skills) | 117 | 在 Codex CLI 中降低 DeepSeek V4 Pro 的 token 成本 60-80%，使用 token-saver、memory skills… | [SAFE](https://agentskillshub.top/skill/lokikill123/codex-token-skills/) |
+| [oldred-byte/ec-visual-skill](https://github.com/oldred-byte/ec-visual-skill) | 114 | 基于产品图和参考图制作电商视觉素材的 Codex skill | [SAFE](https://agentskillshub.top/skill/oldred-byte/ec-visual-skill/) |
 | [jaxxchen003/book-video-factory](https://github.com/jaxxchen003/book-video-factory) | 113 | 可移植的 Codex skill，用于可审计、注重版权的中文书评短视频工作流 | [SAFE](https://agentskillshub.top/skill/jaxxchen003/book-video-factory/) |
-| [oldred-byte/ec-visual-skill](https://github.com/oldred-byte/ec-visual-skill) | 113 | 基于产品图和参考图制作电商视觉素材的 Codex skill | [SAFE](https://agentskillshub.top/skill/oldred-byte/ec-visual-skill/) |
-| [uigiuf/codex-visio-replica-workflow](https://github.com/uigiuf/codex-visio-replica-workflow) | 108 | 用于将参考图表重建为可编辑 Microsoft Visio 文件的 Codex skill | [SAFE](https://agentskillshub.top/skill/uigiuf/codex-visio-replica-workflow/) |
+| [uigiuf/codex-visio-replica-workflow](https://github.com/uigiuf/codex-visio-replica-workflow) | 109 | 用于将参考图表重建为可编辑 Microsoft Visio 文件的 Codex skill | [SAFE](https://agentskillshub.top/skill/uigiuf/codex-visio-replica-workflow/) |
 | [pmlaowangba-lab/laowangba-pmprototype-skill](https://github.com/pmlaowangba-lab/laowangba-pmprototype-skill) | 105 | 用于产品原型生成的 Codex skill，包含 IA、设计门禁、页面 UI YAML 和 Figma 工作流。 | [SAFE](https://agentskillshub.top/skill/pmlaowangba-lab/laowangba-pmprototype-skill/) |
+| [BIAsia/voxel-icon](https://github.com/BIAsia/voxel-icon) | 104 | Voxel Icon — 30 个 PNG 图标和一个独立 Codex skill，适用于低密度等距体素艺术 | [SAFE](https://agentskillshub.top/skill/BIAsia/voxel-icon/) |
+| [LEON-gittech/Skill2Poster](https://github.com/LEON-gittech/Skill2Poster) | 104 | 用于学术海报生成的 Codex skills：通过 AI 设计稿将论文内容转为准确的 A0 HTML/PDF 海报。 | [SAFE](https://agentskillshub.top/skill/LEON-gittech/Skill2Poster/) |
 | [caofan85-lab/research-paper-daily-push](https://github.com/caofan85-lab/research-paper-daily-push) | 104 | 可配置的 Codex skill：每日检索、复核证据、评分、中文总结、微信推送、去重和研究记忆。 | [SAFE](https://agentskillshub.top/skill/caofan85-lab/research-paper-daily-push/) |
 | [oil-oil/codex](https://github.com/oil-oil/codex) | 104 | 用于将编码任务委托给 Codex CLI 的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/oil-oil/codex/) |
-| [BIAsia/voxel-icon](https://github.com/BIAsia/voxel-icon) | 103 | Voxel Icon — 30 个 PNG 图标和一个独立 Codex skill，适用于低密度等距体素艺术 | [SAFE](https://agentskillshub.top/skill/BIAsia/voxel-icon/) |
-| [LEON-gittech/Skill2Poster](https://github.com/LEON-gittech/Skill2Poster) | 103 | 用于学术海报生成的 Codex skills：通过 AI 设计稿将论文内容转为准确的 A0 HTML/PDF 海报。 | [SAFE](https://agentskillshub.top/skill/LEON-gittech/Skill2Poster/) |
 | [lin1111-1/academic-integrity-rewrite](https://github.com/lin1111-1/academic-integrity-rewrite) | 102 | 用于中英文保留证据的学术改写 Codex skill | [SAFE](https://agentskillshub.top/skill/lin1111-1/academic-integrity-rewrite/) |
+| [lisamsung/agent-meme-forge](https://github.com/lisamsung/agent-meme-forge) | 102 | Codex skill：将图片或文字概念制作成微信中文表情包，4个关键姿势生成16帧，文字不由模型绘制。 | [SAFE](https://agentskillshub.top/skill/lisamsung/agent-meme-forge/) |
 | [grp06/goalcraft](https://github.com/grp06/goalcraft) | 101 | 用于编写高质量 /goal 提示词的 Codex skill | [SAFE](https://agentskillshub.top/skill/grp06/goalcraft/) |
-| [lisamsung/agent-meme-forge](https://github.com/lisamsung/agent-meme-forge) | 101 | Codex skill：将图片或文字概念制作成微信中文表情包，4个关键姿势生成16帧，文字不由模型绘制。 | [SAFE](https://agentskillshub.top/skill/lisamsung/agent-meme-forge/) |
 | [See-Sol-Lab/private-house-code-v2.5](https://github.com/See-Sol-Lab/private-house-code-v2.5) | 95 | 让 Codex 少用 Token、避免复杂度且保持代码质量的约束 Skill | [SAFE](https://agentskillshub.top/skill/See-Sol-Lab/private-house-code-v2.5/) |
 | [uncle11/xfc-ip-all-png-template](https://github.com/uncle11/xfc-ip-all-png-template) | 91 | 可复用的 Codex skill 模板，用于使用用户定义的 IP 角色和配色制作简线文章插图。 | [SAFE](https://agentskillshub.top/skill/uncle11/xfc-ip-all-png-template/) |
 | [cavoiie/fluent-cfd-skill](https://github.com/cavoiie/fluent-cfd-skill) | 90 | 用于 Ansys Fluent 和 PyFluent CFD 工作流的 Codex skill | [SAFE](https://agentskillshub.top/skill/cavoiie/fluent-cfd-skill/) |
 | [mengke-wang/zh-humanizer-literary](https://github.com/mengke-wang/zh-humanizer-literary) | 89 | 增强 Codex Skill 的中文去 AI 味与文采，让草稿更像人写。 | [SAFE](https://agentskillshub.top/skill/mengke-wang/zh-humanizer-literary/) |
 | [xiaoTN/zelda-style-image-prompt](https://github.com/xiaoTN/zelda-style-image-prompt) | 88 | 用于编写《塞尔达传说》风格图像提示词的 Codex skill | [SAFE](https://agentskillshub.top/skill/xiaoTN/zelda-style-image-prompt/) |
-| [ACTAshui/sjtu-ppt-template-skill](https://github.com/ACTAshui/sjtu-ppt-template-skill) | 84 | 用于创建可编辑的上海交通大学风格 PowerPoint 演示文稿的 Codex skill | [SAFE](https://agentskillshub.top/skill/ACTAshui/sjtu-ppt-template-skill/) |
+| [ACTAshui/sjtu-ppt-template-skill](https://github.com/ACTAshui/sjtu-ppt-template-skill) | 85 | 用于创建可编辑的上海交通大学风格 PowerPoint 演示文稿的 Codex skill | [SAFE](https://agentskillshub.top/skill/ACTAshui/sjtu-ppt-template-skill/) |
 | [luji12/daily-photo-playground](https://github.com/luji12/daily-photo-playground) | 83 | 将日常照片重构为3:4高饱和情绪化编辑海报的 Codex skill | [SAFE](https://agentskillshub.top/skill/luji12/daily-photo-playground/) |
 | [sudoHG/codex-reset-credits-skill](https://github.com/sudoHG/codex-reset-credits-skill) | 78 | Codex Skill 和 runbook：查询已存 Codex 重置额度及过期时间，支持安装或免安装一次性查询 | [SAFE](https://agentskillshub.top/skill/sudoHG/codex-reset-credits-skill/) |
 | [CheshireMew/Price-action-analysis](https://github.com/CheshireMew/Price-action-analysis) | 76 | 用于标注价格行为图表分析的 Codex skill | [SAFE](https://agentskillshub.top/skill/CheshireMew/Price-action-analysis/) |
-| [xiaomaxueshufen/data-analysis](https://github.com/xiaomaxueshufen/data-analysis) | 71 | Excel/CSV 数据分析 Codex skill，支持异动、漏斗、指标、AB 实验、因果、分层、贡献度、比率拆解和行业口径模板 | [SAFE](https://agentskillshub.top/skill/xiaomaxueshufen/data-analysis/) |
+| [xiaomaxueshufen/data-analysis](https://github.com/xiaomaxueshufen/data-analysis) | 72 | Excel/CSV 数据分析 Codex skill，支持异动、漏斗、指标、AB 实验、因果、分层、贡献度、比率拆解和行业口径模板 | [SAFE](https://agentskillshub.top/skill/xiaomaxueshufen/data-analysis/) |
 | [promptwhisper/clone-any-website-skill](https://github.com/promptwhisper/clone-any-website-skill) | 67 | 用于重建公开网站的 Codex skill，构建整洁易维护的项目并进行规范的视觉与交互 QA。 | [SAFE](https://agentskillshub.top/skill/promptwhisper/clone-any-website-skill/) |
 | [Gyratingice-blip/codex-windows-bundled-plugin-repair](https://github.com/Gyratingice-blip/codex-windows-bundled-plugin-repair) | 66 | 修复 Windows 上 Codex Desktop 内置的 Chrome 和 Computer Use 插件。 | [SAFE](https://agentskillshub.top/skill/Gyratingice-blip/codex-windows-bundled-plugin-repair/) |
 | [XuToWei/Image-To-UI](https://github.com/XuToWei/Image-To-UI) | 66 | Image-to-UI Codex skill：将游戏 UI 截图和切片精灵图转换为 ui_structure.json。 | [SAFE](https://agentskillshub.top/skill/XuToWei/Image-To-UI/) |
@@ -235,19 +235,19 @@
 | [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) | 1.7k | 将附加物体图像转换为仅代码、可制作动画的程序化 Three.js 模型的 Codex 插件。 | [SAFE](https://agentskillshub.top/skill/vinhhien112/img2obj/) |
 | [icebird1998/drawio-scientific-illustrator](https://github.com/icebird1998/drawio-scientific-illustrator) | 1.5k | 在 Codex 中通过 MCP 实时控制可见的 draw.io 画布，逐步绘制科学插图。 | [SAFE](https://agentskillshub.top/skill/icebird1998/drawio-scientific-illustrator/) |
 | [icebird1998/scientific-illustrator](https://github.com/icebird1998/scientific-illustrator) | 1.0k | 通过 Codex/MCP 和 Designer-Drawer-Reviewer-Corrector 质量门制作可编辑的 PowerPoint 和 draw.i… | [SAFE](https://agentskillshub.top/skill/icebird1998/scientific-illustrator/) |
-| [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch) | 837 | 用于在代码库中运行优化循环的 Codex 插件，适合针对可测量指标尝试多种改动。 | [SAFE](https://agentskillshub.top/skill/TheGreenCedar/codex-autoresearch/) |
-| [chipfighter/codex-attachment-manager](https://github.com/chipfighter/codex-attachment-manager) | 804 | Codex 插件：选择随下条消息发送给模型的历史图片。未选图片变为占位符，任务继续并减少请求大小。 | [SAFE](https://agentskillshub.top/skill/chipfighter/codex-attachment-manager/) |
+| [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch) | 839 | 用于在代码库中运行优化循环的 Codex 插件，适合针对可测量指标尝试多种改动。 | [SAFE](https://agentskillshub.top/skill/TheGreenCedar/codex-autoresearch/) |
+| [chipfighter/codex-attachment-manager](https://github.com/chipfighter/codex-attachment-manager) | 805 | Codex 插件：选择随下条消息发送给模型的历史图片。未选图片变为占位符，任务继续并减少请求大小。 | [SAFE](https://agentskillshub.top/skill/chipfighter/codex-attachment-manager/) |
 | [mengke-wang/xiaohongshu-ai-workbench](https://github.com/mengke-wang/xiaohongshu-ai-workbench) | 632 | 《小红书运营手册·AI工作台》：用于小红书运营的 Codex Skills | [SAFE](https://agentskillshub.top/skill/mengke-wang/xiaohongshu-ai-workbench/) |
 | [baskduf/FableCodex](https://github.com/baskduf/FableCodex) | 437 | 🗿 FableCodex 是一种按 Fable 方式规划的 Codex 风格编码 agent 工作流 | [SAFE](https://agentskillshub.top/skill/baskduf/FableCodex/) |
 | [haiou-666/haiou-codex](https://github.com/haiou-666/haiou-codex) | 408 | 海鸥 codeX 版：面向 Codex 的本地增强配置包，包含自定义 AGENTS.md、模块化 Prompt 和专业 skill，提供中文技术交互与安全研究… | [SAFE](https://agentskillshub.top/skill/haiou-666/haiou-codex/) |
-| [gnipbao/codex-whiteboard-video-skill](https://github.com/gnipbao/codex-whiteboard-video-skill) | 350 | Codex 白板视频 Skill：调用 whiteboard-video-engine 将图片、SVG、线稿或脚本转为白板视频；仅含 SKILL.md 和 w… | [SAFE](https://agentskillshub.top/skill/gnipbao/codex-whiteboard-video-skill/) |
-| [duolahypercho/andrej-karpathy-skills](https://github.com/duolahypercho/andrej-karpathy-skills) | 290 | 面向 Codex 的 Karpathy 风格编码代理指南改编版 | [SAFE](https://agentskillshub.top/skill/duolahypercho/andrej-karpathy-skills/) |
+| [gnipbao/codex-whiteboard-video-skill](https://github.com/gnipbao/codex-whiteboard-video-skill) | 352 | Codex 白板视频 Skill：调用 whiteboard-video-engine 将图片、SVG、线稿或脚本转为白板视频；仅含 SKILL.md 和 w… | [SAFE](https://agentskillshub.top/skill/gnipbao/codex-whiteboard-video-skill/) |
+| [duolahypercho/andrej-karpathy-skills](https://github.com/duolahypercho/andrej-karpathy-skills) | 292 | 面向 Codex 的 Karpathy 风格编码代理指南改编版 | [SAFE](https://agentskillshub.top/skill/duolahypercho/andrej-karpathy-skills/) |
 | [johnseth97/codex.nvim](https://github.com/johnseth97/codex.nvim) | 268 | Neovim 的 OpenAI Codex 插件 | [SAFE](https://agentskillshub.top/skill/johnseth97/codex.nvim/) |
 | [callstackincubator/codex-mobile-dev-plugin](https://github.com/callstackincubator/codex-mobile-dev-plugin) | 238 | 提升 Android 和 iOS 移动开发体验的 Codex 插件 | [SAFE](https://agentskillshub.top/skill/callstackincubator/codex-mobile-dev-plugin/) |
 | [Spark-To-Paper-Skills/paperjury-codex](https://github.com/Spark-To-Paper-Skills/paperjury-codex) | 227 | Codex 优先的 PaperJury 移植版，用于投稿前计算机科学论文评审与编辑的 skill。 | [SAFE](https://agentskillshub.top/skill/Spark-To-Paper-Skills/paperjury-codex/) |
 | [ndycode/oc-codex-multi-auth](https://github.com/ndycode/oc-codex-multi-auth) | 208 | 支持 ChatGPT Plus/Pro OAuth 的 OpenCode 插件，提供 Codex/GPT-5 路由、多账号轮换与切换、健康检查、诊断和恢复工具 | [SAFE](https://agentskillshub.top/skill/ndycode/oc-codex-multi-auth/) |
 | [guard22/opencode-multi-auth-codex](https://github.com/guard22/opencode-multi-auth-codex) | 185 | OpenCode/Codex 多账号认证插件：轮换 API 密钥、管理会话、自动登录 | [SAFE](https://agentskillshub.top/skill/guard22/opencode-multi-auth-codex/) |
-| [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) | 181 | CodexQB 是用于仓库理解、规划、QA 审计和受控实现交接的 Codex 插件。 | [SAFE](https://agentskillshub.top/skill/alicankiraz1/CodexQB/) |
+| [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) | 180 | CodexQB 是用于仓库理解、规划、QA 审计和受控实现交接的 Codex 插件。 | [SAFE](https://agentskillshub.top/skill/alicankiraz1/CodexQB/) |
 | [kky42/codex-as-mcp](https://github.com/kky42/codex-as-mcp) | 177 | 将 codex CLI tool 转换为 MCP | [SAFE](https://agentskillshub.top/skill/kky42/codex-as-mcp/) |
 | [cexll/codex-mcp-server](https://github.com/cexll/codex-mcp-server) | 176 | Codex MCP 服务器 | [SAFE](https://agentskillshub.top/skill/cexll/codex-mcp-server/) |
 | [FYZAFH/mcp-codex-dev](https://github.com/FYZAFH/mcp-codex-dev) | 167 | Codex CLI 集成的 MCP Server，支持有状态的代码编写与审查工作流 | [SAFE](https://agentskillshub.top/skill/FYZAFH/mcp-codex-dev/) |
@@ -258,8 +258,8 @@
 | [psinetron/echoes-vault-codex](https://github.com/psinetron/echoes-vault-codex) | 127 | Codex 持久记忆插件，跨会话保留的 Obsidian 风格知识库 | [SAFE](https://agentskillshub.top/skill/psinetron/echoes-vault-codex/) |
 | [architectds/modeldock](https://github.com/architectds/modeldock) | 120 | 在 Codex 中保留一切并加入 DeepSeek，赋予其视觉、听觉、语音、网页搜索、记忆和 content-to-video skill。ModelDock… | [SAFE](https://agentskillshub.top/skill/architectds/modeldock/) |
 | [juew/Skill-Routing-Kit](https://github.com/juew/Skill-Routing-Kit) | 119 | Skill Routing Kit 是本地优先的 Codex 插件，提升 skill 和插件命中率，避免运行时路由层。 | [SAFE](https://agentskillshub.top/skill/juew/Skill-Routing-Kit/) |
+| [Aqua-123/pstack-for-codex](https://github.com/Aqua-123/pstack-for-codex) | 115 | 基于 pstack 的 Codex 原生工程工作流，含 45 个 skill 和 23 个 Poteto Mode 操作手册。 | [SAFE](https://agentskillshub.top/skill/Aqua-123/pstack-for-codex/) |
 | [QIYU-JACKMAN/codexQIYU-image-workflow](https://github.com/QIYU-JACKMAN/codexQIYU-image-workflow) | 111 | 面向电商图片生产的 Codex 插件，提供八种工作流，支持 GPT Image 2 提示词优化、生成确认、逐图质检和失败续跑。 | [SAFE](https://agentskillshub.top/skill/QIYU-JACKMAN/codexQIYU-image-workflow/) |
-| [Aqua-123/pstack-for-codex](https://github.com/Aqua-123/pstack-for-codex) | 110 | 基于 pstack 的 Codex 原生工程工作流，含 45 个 skill 和 23 个 Poteto Mode 操作手册。 | [SAFE](https://agentskillshub.top/skill/Aqua-123/pstack-for-codex/) |
 | [louchi1984-coder/deepseek-claude-code-worker-mcp](https://github.com/louchi1984-coder/deepseek-claude-code-worker-mcp) | 98 | DeepSeek V4 代码工作者 MCP，适用于 Codex Desktop，由 Claude Code 驱动 | [SAFE](https://agentskillshub.top/skill/louchi1984-coder/deepseek-claude-code-worker-mcp/) |
 | [shixinnt/codex-image-context-runtime](https://github.com/shixinnt/codex-image-context-runtime) | 97 | 用于在上下文范围内生成和检查图像的 Codex 插件与本地 MCP 运行时。 | [SAFE](https://agentskillshub.top/skill/shixinnt/codex-image-context-runtime/) |
 | [Bene-2020/plane-codex-mcp](https://github.com/Bene-2020/plane-codex-mcp) | 86 | 一个 Codex 插件，记录项目工作并同步到 Plane。 | [SAFE](https://agentskillshub.top/skill/Bene-2020/plane-codex-mcp/) |
@@ -270,9 +270,9 @@
 | [leonardsellem/codex-specialized-subagents](https://github.com/leonardsellem/codex-specialized-subagents) | 70 | MCP server，让 Codex 委托给隔离的 codex exec 子代理并自动选择仓库和全局 skill | [SAFE](https://agentskillshub.top/skill/leonardsellem/codex-specialized-subagents/) |
 | [atman-33/spec-for-codex](https://github.com/atman-33/spec-for-codex) | 67 | 用于规范驱动开发的 VS Code 扩展，集成 Codex CLI，可视化管理 specs、steering docs 和 prompts。 | [SAFE](https://agentskillshub.top/skill/atman-33/spec-for-codex/) |
 | [plastic-labs/codex-honcho](https://github.com/plastic-labs/codex-honcho) | 66 | OpenAI Codex 的 Honcho memory 插件——通过 Codex hooks 实现 harness 层集成 | [SAFE](https://agentskillshub.top/skill/plastic-labs/codex-honcho/) |
+| [chiphoton/MiniMax-H3-Codex-Drama](https://github.com/chiphoton/MiniMax-H3-Codex-Drama) | 63 | 🎬 Codex 优先的 MiniMax H3 视频制作插件：👤角色与🏙️场景设计、🧩分镜、🎞️ ComfyUI 生成、✂️后期制作和✅质检。 | [SAFE](https://agentskillshub.top/skill/chiphoton/MiniMax-H3-Codex-Drama/) |
 | [isLiuyx1/oh-my-folkstoryphoto](https://github.com/isLiuyx1/oh-my-folkstoryphoto) | 63 | Codex skill 和可选插件，用于制作自审的中国民间故事照片轮播，采用真实个人相册风格。 | [SAFE](https://agentskillshub.top/skill/isLiuyx1/oh-my-folkstoryphoto/) |
 | [robzilla1738/Codex-Workflows](https://github.com/robzilla1738/Codex-Workflows) | 63 | 面向 Codex 的工作流即代码编排 | [SAFE](https://agentskillshub.top/skill/robzilla1738/Codex-Workflows/) |
-| [chiphoton/MiniMax-H3-Codex-Drama](https://github.com/chiphoton/MiniMax-H3-Codex-Drama) | 62 | 🎬 Codex 优先的 MiniMax H3 视频制作插件：👤角色与🏙️场景设计、🧩分镜、🎞️ ComfyUI 生成、✂️后期制作和✅质检。 | [SAFE](https://agentskillshub.top/skill/chiphoton/MiniMax-H3-Codex-Drama/) |
 | [tomascupr/codexMCP](https://github.com/tomascupr/codexMCP) | 60 | 封装 Codex CLI 的 MCP | [SAFE](https://agentskillshub.top/skill/tomascupr/codexMCP/) |
 | [maksimzayats/acodex](https://github.com/maksimzayats/acodex) | 59 | Codex 桌面应用的本地 MCP 自动化桥接，提供 CLI、HTTP 服务器和实时 codex_app.* 工具访问。 | [SAFE](https://agentskillshub.top/skill/maksimzayats/acodex/) |
 | [Toolsai/GPT-Relay-Codex-Plugin-](https://github.com/Toolsai/GPT-Relay-Codex-Plugin-) | 58 | GPT Relay Codex插件通过现有Chrome会话转发提示至ChatGPT，并返回回答、图片、Deep Research报告和对话链接。 | [SAFE](https://agentskillshub.top/skill/Toolsai/GPT-Relay-Codex-Plugin-/) |
@@ -313,7 +313,7 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) | 649 | OpenAI Codex CLI 的 MCP server wrapper，让 Claude Code 直接使用 Codex 的 AI 能力。 | [SAFE](https://agentskillshub.top/skill/tuannvm/codex-mcp-server/) |
+| [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) | 650 | OpenAI Codex CLI 的 MCP server wrapper，让 Claude Code 直接使用 Codex 的 AI 能力。 | [SAFE](https://agentskillshub.top/skill/tuannvm/codex-mcp-server/) |
 | [tudoumashu/ai-memory-skillpack](https://github.com/tudoumashu/ai-memory-skillpack) | 492 | 面向 Codex CLI 和 Claude Code 的项目记忆 skill | [SAFE](https://agentskillshub.top/skill/tudoumashu/ai-memory-skillpack/) |
 | [sendbird/cc-plugin-codex](https://github.com/sendbird/cc-plugin-codex) | 235 | 在 Codex 中运行的开源插件，可用 Claude Code 和 Claude 模型进行审查、救援和可追踪的后台工作流。 | [SAFE](https://agentskillshub.top/skill/sendbird/cc-plugin-codex/) |
 | [TheGoat395/Codex-Skills](https://github.com/TheGoat395/Codex-Skills) | 139 | Codex 优先的 Agent Skills 库，涵盖前端、网站、动效、无障碍、QA 和交付流程。 | [SAFE](https://agentskillshub.top/skill/TheGoat395/Codex-Skills/) |
@@ -331,7 +331,7 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | 4.5k | OpenAI Codex 桌面端/CLI 管理工具，支持 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理和 TOML 配置可… | [SAFE](https://agentskillshub.top/skill/yynxxxxx/Codex-X/) |
-| [CalebYcj/codex-rehome](https://github.com/CalebYcj/codex-rehome) | 442 | 在 Windows 和 Mac 上打包与恢复 Codex Desktop：对话、项目、skills、plugins 及重装备份。 | [SAFE](https://agentskillshub.top/skill/CalebYcj/codex-rehome/) |
+| [CalebYcj/codex-rehome](https://github.com/CalebYcj/codex-rehome) | 443 | 在 Windows 和 Mac 上打包与恢复 Codex Desktop：对话、项目、skills、plugins 及重装备份。 | [SAFE](https://agentskillshub.top/skill/CalebYcj/codex-rehome/) |
 | [ChrisTitusTech/titus-ai](https://github.com/ChrisTitusTech/titus-ai) | 303 | Codex 和 AI 技能 | [SAFE](https://agentskillshub.top/skill/ChrisTitusTech/titus-ai/) |
 | [douglasmonsky/codex-usage-tracker](https://github.com/douglasmonsky/codex-usage-tracker) | 196 | 本地优先的 MCP 工具和仪表盘，用于分析 Codex 的 token 使用、额度、成本、缓存和线程模式。 | [SAFE](https://agentskillshub.top/skill/douglasmonsky/codex-usage-tracker/) |
 | [Khalilzhang0825/boring-is-all-you-need](https://github.com/Khalilzhang0825/boring-is-all-you-need) | 168 | 无聊已足够：替代 Codex Desktop 的工作流，支持事务式迁移、仅审计托管钩子、基于风险的审查、范围限定的检查点提交和发布证据。 | [SAFE](https://agentskillshub.top/skill/Khalilzhang0825/boring-is-all-you-need/) |
@@ -355,4 +355,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-15。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-16。
